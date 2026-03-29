@@ -1,0 +1,819 @@
+{
+  "version": 1,
+  "timezone": "Asia/Calcutta",
+  "lastUpdated": "2026-03-28T09:30:42.205Z",
+  "profile": {
+    "job": {
+      "description": "Full-time software engineer",
+      "notes": "Weekday work commitments can compress side-project energy. The manager should adapt around real work load instead of forcing the same plan every day.",
+      "calendarSynced": false
+    },
+    "fitness": {
+      "modes": [
+        "gym",
+        "swimming"
+      ],
+      "importance": "non-negotiable anchor",
+      "weeklyTargetSessions": 4,
+      "lastMentionedAt": "2026-03-28T06:20:00.000Z"
+    },
+    "communication": {
+      "primaryChannel": "telegram",
+      "notionFriction": "high on phone",
+      "style": "short, direct, adaptive",
+      "ideaCapture": "freeform conversation"
+    }
+  },
+  "life": {
+    "areas": [
+      "work",
+      "product",
+      "marketing",
+      "fitness",
+      "personal",
+      "learning"
+    ],
+    "activeGoals": [
+      {
+        "id": "launch-fence",
+        "area": "product",
+        "goal": "Launch Fence only after demand confidence exists",
+        "horizon": "Q2 2026",
+        "status": "active",
+        "blockerNote": "Marketing and early signup validation matter before paying for the Apple developer account."
+      },
+      {
+        "id": "fitness-consistency",
+        "area": "fitness",
+        "goal": "Keep gym and swimming consistent even during heavy work weeks",
+        "horizon": "ongoing",
+        "status": "active",
+        "blockerNote": ""
+      },
+      {
+        "id": "sustainable-balance",
+        "area": "work",
+        "goal": "Protect job performance while still moving personal projects forward",
+        "horizon": "ongoing",
+        "status": "active",
+        "blockerNote": ""
+      }
+    ],
+    "anchorPoints": [
+      "Protect job energy first.",
+      "Keep fitness alive every week.",
+      "Move Fence toward real demand and launch confidence.",
+      "Capture ideas without turning all of them into chores."
+    ],
+    "currentFocusNote": "Build Zoe into an empathetic manager across work, fitness, and side projects. Keep the system flexible, demand-first for Fence, and friendly to cheap models.",
+    "lastStrategyUpdate": {
+      "at": "2026-03-28T06:20:00.000Z",
+      "note": "Primary growth spans all of life: job, fitness, Fence, future products, and flexible day-to-day adaptation."
+    }
+  },
+  "context": {
+    "updatedAt": null,
+    "workLoad": null,
+    "sleepQuality": null,
+    "energyLevel": null,
+    "mood": null,
+    "fitnessIntent": null,
+    "fitnessDone": [],
+    "notes": []
+  },
+  "today": {
+    "date": "2026-03-28",
+    "morningBriefSentAt": "2026-03-28T09:23:20.372Z",
+    "eveningPromptSentAt": "2026-03-28T09:23:20.551Z",
+    "adjustmentReason": null,
+    "priorities": [
+      {
+        "taskKey": "30fe3c01-be8e-8118-b3ec-d348b9bce4b3",
+        "pageId": "30fe3c01-be8e-8118-b3ec-d348b9bce4b3",
+        "externalId": null,
+        "title": "Polish core UX flows (edge-cases + microcopy)",
+        "area": "Product",
+        "priority": "P0",
+        "dueDate": "2026-03-28",
+        "status": "planned",
+        "slipCount": 1,
+        "source": "https://www.notion.so/Polish-core-UX-flows-edge-cases-microcopy-30fe3c01be8e8118b3ecd348b9bce4b3",
+        "url": "https://www.notion.so/Polish-core-UX-flows-edge-cases-microcopy-30fe3c01be8e8118b3ecd348b9bce4b3"
+      },
+      {
+        "taskKey": "30fe3c01-be8e-818d-ab51-cd38a6c87d25",
+        "pageId": "30fe3c01-be8e-818d-ab51-cd38a6c87d25",
+        "externalId": null,
+        "title": "Refine onboarding (first-run + sample data + permissions)",
+        "area": "Product",
+        "priority": "P0",
+        "dueDate": "2026-03-28",
+        "status": "planned",
+        "slipCount": 1,
+        "source": "https://www.notion.so/Refine-onboarding-first-run-sample-data-permissions-30fe3c01be8e818dab51cd38a6c87d25",
+        "url": "https://www.notion.so/Refine-onboarding-first-run-sample-data-permissions-30fe3c01be8e818dab51cd38a6c87d25"
+      },
+      {
+        "taskKey": "30fe3c01-be8e-8191-99e9-c1ba96d328b5",
+        "pageId": "30fe3c01-be8e-8191-99e9-c1ba96d328b5",
+        "externalId": null,
+        "title": "Set up TestFlight external testing (public link + group)",
+        "area": "Product",
+        "priority": "P0",
+        "dueDate": "2026-03-28",
+        "status": "planned",
+        "slipCount": 1,
+        "source": "https://www.notion.so/Set-up-TestFlight-external-testing-public-link-group-30fe3c01be8e819199e9c1ba96d328b5",
+        "url": "https://www.notion.so/Set-up-TestFlight-external-testing-public-link-group-30fe3c01be8e819199e9c1ba96d328b5"
+      }
+    ],
+    "completed": [],
+    "carriedOver": [],
+    "notes": []
+  },
+  "momentum": {
+    "streakDays": 0,
+    "weeklyCompletionRate": 0,
+    "areaBalance": {
+      "marketing": 3,
+      "personal": 6,
+      "work": 1,
+      "product": 3,
+      "learning": 2
+    },
+    "recentDays": [
+      {
+        "date": "2026-02-13",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "product"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-02-14",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "personal"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-02-15",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "marketing",
+          "personal"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-02-18",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "marketing",
+          "personal",
+          "product"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-02-20",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "marketing",
+          "product",
+          "personal"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-02-22",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "personal",
+          "learning",
+          "product",
+          "marketing"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-02-23",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "personal",
+          "product"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-02-24",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "marketing",
+          "personal",
+          "product"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-02-25",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "product",
+          "personal"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-02-26",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "marketing",
+          "product",
+          "personal"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-02-27",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "marketing"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-02-28",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "marketing"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-03-01",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "marketing",
+          "product"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-03-02",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "marketing"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-03-03",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "marketing"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-03-04",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "marketing",
+          "personal",
+          "product"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-03-09",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "marketing"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-03-10",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "personal",
+          "marketing"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-03-11",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "marketing"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-03-12",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "marketing"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-03-13",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "marketing"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-03-14",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "personal",
+          "marketing",
+          "work",
+          "product",
+          "learning"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-03-15",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "personal",
+          "learning"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-03-17",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "marketing",
+          "product",
+          "personal"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-03-19",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "personal",
+          "product"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-03-27",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "personal"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      },
+      {
+        "date": "2026-03-28",
+        "completedCount": 0,
+        "completedTaskKeys": [],
+        "touchedAreas": [
+          "personal"
+        ],
+        "fitnessSessions": [],
+        "workLoad": null,
+        "sleepQuality": null,
+        "energyLevel": null,
+        "notes": [],
+        "plannedCount": 0
+      }
+    ]
+  },
+  "tasksMeta": {
+    "30fe3c01-be8e-818e-b2aa-f677df6e6fd3": {
+      "pageId": "30fe3c01-be8e-818e-b2aa-f677df6e6fd3",
+      "externalId": null,
+      "title": "Landing page: add Early Access positioning + FAQs",
+      "area": "Landing Page",
+      "priority": "P0",
+      "slipCount": 1,
+      "lastPlannedAt": "2026-03-28",
+      "lastCompletedAt": null,
+      "lastRolledDate": "2026-03-28"
+    },
+    "30fe3c01-be8e-8191-99e9-c1ba96d328b5": {
+      "pageId": "30fe3c01-be8e-8191-99e9-c1ba96d328b5",
+      "externalId": null,
+      "title": "Set up TestFlight external testing (public link + group)",
+      "area": "Product",
+      "priority": "P0",
+      "slipCount": 1,
+      "lastPlannedAt": "2026-03-28",
+      "lastCompletedAt": null,
+      "lastRolledDate": "2026-03-28"
+    },
+    "30fe3c01-be8e-818d-ab51-cd38a6c87d25": {
+      "pageId": "30fe3c01-be8e-818d-ab51-cd38a6c87d25",
+      "externalId": null,
+      "title": "Refine onboarding (first-run + sample data + permissions)",
+      "area": "Product",
+      "priority": "P0",
+      "slipCount": 1,
+      "lastPlannedAt": "2026-03-28",
+      "lastCompletedAt": null,
+      "lastRolledDate": "2026-03-28"
+    },
+    "30fe3c01-be8e-8149-9060-eac16429aa22": {
+      "pageId": "30fe3c01-be8e-8149-9060-eac16429aa22",
+      "externalId": null,
+      "title": "Wire signup → invite pipeline (landing page → list → TestFlight)",
+      "area": "Ops",
+      "priority": "P0",
+      "slipCount": 1,
+      "lastPlannedAt": "2026-03-28",
+      "lastCompletedAt": null,
+      "lastRolledDate": "2026-03-28"
+    },
+    "30fe3c01-be8e-8118-b3ec-d348b9bce4b3": {
+      "pageId": "30fe3c01-be8e-8118-b3ec-d348b9bce4b3",
+      "externalId": null,
+      "title": "Polish core UX flows (edge-cases + microcopy)",
+      "area": "Product",
+      "priority": "P0",
+      "slipCount": 1,
+      "lastPlannedAt": "2026-03-28",
+      "lastCompletedAt": null,
+      "lastRolledDate": "2026-03-28"
+    },
+    "30fe3c01-be8e-81e2-893c-c24d9d36f212": {
+      "pageId": "30fe3c01-be8e-81e2-893c-c24d9d36f212",
+      "externalId": null,
+      "title": "Apple Developer Program enrollment (Individual)",
+      "area": "Ops",
+      "priority": "P0",
+      "slipCount": 0,
+      "lastPlannedAt": null,
+      "lastCompletedAt": null,
+      "lastRolledDate": null
+    },
+    "326e3c01-be8e-813b-849b-c6e504c00350": {
+      "pageId": "326e3c01-be8e-813b-849b-c6e504c00350",
+      "externalId": null,
+      "title": "Bug: Self-messaging to user’s own number/contact fails — debug + fix",
+      "area": "Product",
+      "priority": "P0",
+      "slipCount": 0,
+      "lastPlannedAt": null,
+      "lastCompletedAt": null,
+      "lastRolledDate": null
+    },
+    "30fe3c01-be8e-812c-8d53-e01ce321943e": {
+      "pageId": "30fe3c01-be8e-812c-8d53-e01ce321943e",
+      "externalId": null,
+      "title": "Define Early Access program (who qualifies + what they get)",
+      "area": "Marketing",
+      "priority": "P0",
+      "slipCount": 0,
+      "lastPlannedAt": null,
+      "lastCompletedAt": null,
+      "lastRolledDate": null
+    },
+    "30fe3c01-be8e-8190-b91c-e0d4b0debc71": {
+      "pageId": "30fe3c01-be8e-8190-b91c-e0d4b0debc71",
+      "externalId": null,
+      "title": "Prelaunch Twitter plan: 10 posts + 1 pinned thread + CTA to waitlist",
+      "area": "Marketing",
+      "priority": "P1",
+      "slipCount": 0,
+      "lastPlannedAt": null,
+      "lastCompletedAt": null,
+      "lastRolledDate": null
+    },
+    "task:product-launch-checklist": {
+      "pageId": "30ae3c01-be8e-8166-9d55-c94913324b92",
+      "externalId": "task:product-launch-checklist",
+      "title": "Prepare App Store/TestFlight launch checklist",
+      "area": "Product",
+      "priority": "P1",
+      "slipCount": 0,
+      "lastPlannedAt": null,
+      "lastCompletedAt": null,
+      "lastRolledDate": null
+    },
+    "30fe3c01-be8e-8174-8e8c-c78bf7a8808e": {
+      "pageId": "30fe3c01-be8e-8174-8e8c-c78bf7a8808e",
+      "externalId": null,
+      "title": "Run 4–5 friend beta (week-long) + collect feedback",
+      "area": "Product",
+      "priority": "P1",
+      "slipCount": 0,
+      "lastPlannedAt": null,
+      "lastCompletedAt": null,
+      "lastRolledDate": null
+    },
+    "30fe3c01-be8e-811b-ad27-d1af90aa47c4": {
+      "pageId": "30fe3c01-be8e-811b-ad27-d1af90aa47c4",
+      "externalId": null,
+      "title": "Update Reddit launch-day drafts with Mar 6 timing + CTA",
+      "area": "Marketing",
+      "priority": "P1",
+      "slipCount": 0,
+      "lastPlannedAt": null,
+      "lastCompletedAt": null,
+      "lastRolledDate": null
+    },
+    "328e3c01-be8e-8195-a2a4-efe474cbc638": {
+      "pageId": "328e3c01-be8e-811b-85cb-c3da04adeba7",
+      "externalId": "328e3c01-be8e-8195-a2a4-efe474cbc638",
+      "title": "Add tagging flow + auto-categorize using last tag per payee",
+      "area": "Product",
+      "priority": "P1",
+      "slipCount": 0,
+      "lastPlannedAt": null,
+      "lastCompletedAt": null,
+      "lastRolledDate": null
+    },
+    "326e3c01-be8e-811c-94bb-c98219dd6f57": {
+      "pageId": "326e3c01-be8e-811c-94bb-c98219dd6f57",
+      "externalId": null,
+      "title": "Analytics: Fix scrollability + reorder widgets (most important up top)",
+      "area": "Product",
+      "priority": "P1",
+      "slipCount": 0,
+      "lastPlannedAt": null,
+      "lastCompletedAt": null,
+      "lastRolledDate": null
+    },
+    "30fe3c01-be8e-8158-b99b-c95dd912b657": {
+      "pageId": "30fe3c01-be8e-8158-b99b-c95dd912b657",
+      "externalId": null,
+      "title": "Create feedback capture (Google Form / Typeform) + beta script",
+      "area": "Product",
+      "priority": "P1",
+      "slipCount": 0,
+      "lastPlannedAt": null,
+      "lastCompletedAt": null,
+      "lastRolledDate": null
+    },
+    "task:ops-home-area-views": {
+      "pageId": "30be3c01-be8e-81b9-b9e6-d23b9aabfc24",
+      "externalId": "task:ops-home-area-views",
+      "title": "Create separate task views for Product, Marketing and Ops, Pin them to home page",
+      "area": "Ops",
+      "priority": "P1",
+      "slipCount": 0,
+      "lastPlannedAt": null,
+      "lastCompletedAt": null,
+      "lastRolledDate": null
+    },
+    "326e3c01-be8e-81d5-9617-f1600f15dd01": {
+      "pageId": "326e3c01-be8e-81d5-9617-f1600f15dd01",
+      "externalId": null,
+      "title": "Onboarding: Make budget-setting optional (skip + set later)",
+      "area": "Product",
+      "priority": "P1",
+      "slipCount": 0,
+      "lastPlannedAt": null,
+      "lastCompletedAt": null,
+      "lastRolledDate": null
+    },
+    "326e3c01-be8e-81b0-aa82-fab2806407d2": {
+      "pageId": "326e3c01-be8e-81b0-aa82-fab2806407d2",
+      "externalId": null,
+      "title": "Onboarding: Remove ‘checking’ state for Shortcut install; CTA → ‘I have done it’",
+      "area": "Product",
+      "priority": "P1",
+      "slipCount": 0,
+      "lastPlannedAt": null,
+      "lastCompletedAt": null,
+      "lastRolledDate": null
+    },
+    "30fe3c01-be8e-81d4-bea8-e8828f280947": {
+      "pageId": "30fe3c01-be8e-81d4-bea8-e8828f280947",
+      "externalId": null,
+      "title": "Set up TestFlight build pipeline for friend beta",
+      "area": "Product",
+      "priority": "P1",
+      "slipCount": 0,
+      "lastPlannedAt": null,
+      "lastCompletedAt": null,
+      "lastRolledDate": null
+    },
+    "326e3c01-be8e-81a2-9a7e-cc5462502d37": {
+      "pageId": "326e3c01-be8e-81a2-9a7e-cc5462502d37",
+      "externalId": null,
+      "title": "Haptics: Trigger success haptic when notification received",
+      "area": "Product",
+      "priority": "P2",
+      "slipCount": 0,
+      "lastPlannedAt": null,
+      "lastCompletedAt": null,
+      "lastRolledDate": null
+    },
+    "326e3c01-be8e-819f-b28a-e9c9eee76d11": {
+      "pageId": "326e3c01-be8e-819f-b28a-e9c9eee76d11",
+      "externalId": null,
+      "title": "Messaging: Rewrite first test message (celebratory, personal, confirms automation live)",
+      "area": "Product",
+      "priority": "P2",
+      "slipCount": 0,
+      "lastPlannedAt": null,
+      "lastCompletedAt": null,
+      "lastRolledDate": null
+    },
+    "326e3c01-be8e-81ff-ac76-d70cb392696e": {
+      "pageId": "326e3c01-be8e-81ff-ac76-d70cb392696e",
+      "externalId": null,
+      "title": "UI: Auto-dismiss ‘Auto Tracking Available’ popup after automation confirmed",
+      "area": "Product",
+      "priority": "P2",
+      "slipCount": 0,
+      "lastPlannedAt": null,
+      "lastCompletedAt": null,
+      "lastRolledDate": null
+    },
+    "326e3c01-be8e-8134-bce9-c9052b590cc8": {
+      "pageId": "326e3c01-be8e-8134-bce9-c9052b590cc8",
+      "externalId": null,
+      "title": "Widget: Show ‘Budget Not Set’ empty state when budget skipped",
+      "area": "Product",
+      "priority": "P2",
+      "slipCount": 0,
+      "lastPlannedAt": null,
+      "lastCompletedAt": null,
+      "lastRolledDate": null
+    }
+  },
+  "archive": {
+    "lastSignalSyncAt": "2026-03-28T09:30:42.205Z",
+    "lastHumanMessageAt": "2026-03-28T09:30:17.187Z"
+  },
+  "pendingQuestions": [
+    "Heavy work day or lighter?",
+    "Gym or swim today?",
+    "How did you sleep?"
+  ],
+  "calendar": {
+    "synced": false,
+    "busySlots": []
+  }
+}

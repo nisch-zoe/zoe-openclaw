@@ -1,0 +1,41 @@
+{
+  "lifeos": {
+    "id": "30ee3c01-be8e-8164-a7bc-c93faac001cb",
+    "url": "https://www.notion.so/LifeOS-30ee3c01be8e8164a7bcc93faac001cb",
+    "parentMode": "fence-hq-child"
+  },
+  "fenceHq": {
+    "id": "30ae3c01-be8e-8004-b546-cdef1e3435d1",
+    "url": "https://www.notion.so/Fence-HQ-30ae3c01be8e8004b546cdef1e3435d1",
+    "parent": {
+      "type": "workspace",
+      "workspace": true
+    }
+  },
+  "areas": {
+    "fence": {
+      "id": "30ee3c01-be8e-8162-9fca-f7b6465581ff",
+      "url": "https://www.notion.so/Fence-30ee3c01be8e81629fcaf7b6465581ff"
+    },
+    "fitness": {
+      "id": "30ee3c01-be8e-8186-894a-f1a2d419bd01",
+      "url": "https://www.notion.so/Fitness-30ee3c01be8e8186894af1a2d419bd01"
+    },
+    "habits": {
+      "id": "30ee3c01-be8e-8112-af34-fb556da794cc",
+      "url": "https://www.notion.so/Habits-30ee3c01be8e8112af34fb556da794cc"
+    },
+    "ideas": {
+      "id": "30ee3c01-be8e-8173-8fa3-f1ff9993020b",
+      "url": "https://www.notion.so/Future-Ideas-30ee3c01be8e81738fa3f1ff9993020b"
+    },
+    "research": {
+      "id": "30ee3c01-be8e-8187-9de6-d514032f4a14",
+      "url": "https://www.notion.so/Research-Learning-30ee3c01be8e81879de6d514032f4a14"
+    }
+  },
+  "notes": {
+    "id": "30be3c01-be8e-802e-9e6a-c9ea604b27b4",
+    "url": "https://www.notion.so/Nishchay-s-Notes-30be3c01be8e802e9e6ac9ea604b27b4"
+  }
+}

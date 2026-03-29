@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1771005524298
+    },
+    "self-improving-agent": {
+      "version": "1.0.5",
+      "installedAt": 1771005553399
+    },
+    "swiftui-liquid-glass": {
+      "version": "1.0.0",
+      "installedAt": 1771403918173
+    }
+  }
+}

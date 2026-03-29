@@ -1,0 +1,28 @@
+{
+  "lastUpdated": "2026-02-13",
+  "launchDate": "2026-02-27",
+  "weekly": {
+    "2026-W07": {
+      "phase": "Week -2: Foundation",
+      "twitter_followers": 0,
+      "twitter_impressions": 0,
+      "reddit_karma": 0,
+      "reddit_posts": 0,
+      "waitlist_signups": 0,
+      "app_downloads": 0,
+      "tasks_completed": 6,
+      "tasks_total": 20
+    }
+  },
+  "daily": {
+    "2026-02-13": {
+      "day": 1,
+      "phase": "Foundation",
+      "twitter_followers": 0,
+      "reddit_posts": 0,
+      "waitlist_signups": 0,
+      "content_pieces_created": 0,
+      "notes": "Campaign setup day"
+    }
+  }
+}

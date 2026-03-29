@@ -1,0 +1,22 @@
+{
+  "projects": 3,
+  "tasks": 18,
+  "content": 12,
+  "dailyLogs": 2,
+  "activeTasks": 1,
+  "taskExport": "/home/zoe/.openclaw/workspace/memory/notion/tasks.md",
+  "projectPages": {
+    "project:fence-ios-core": {
+      "id": "30ae3c01-be8e-81e2-90f7-ce5a120255de",
+      "url": "https://www.notion.so/Fence-iOS-App-Core-Product-30ae3c01be8e81e290f7ce5a120255de"
+    },
+    "project:fence-marketing-launch": {
+      "id": "30ae3c01-be8e-813a-a511-dd55c1931208",
+      "url": "https://www.notion.so/Fence-Marketing-Launch-India-30ae3c01be8e813aa511dd55c1931208"
+    },
+    "project:fence-hq-ops": {
+      "id": "30ae3c01-be8e-810d-a971-c526d8dd9a38",
+      "url": "https://www.notion.so/Fence-HQ-Ops-Notion-Sync-30ae3c01be8e810da971c526d8dd9a38"
+    }
+  }
+}
