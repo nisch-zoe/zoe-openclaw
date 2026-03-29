@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "format": "sqlite-vacuum-into",
+  "sourceDir": "../data",
+  "backupDir": "backups/databases",
+  "generatedAt": "2026-03-29T14:08:07.118Z",
+  "databases": [
+    {
+      "name": "openclaw.db",
+      "sourcePath": "../data/openclaw.db",
+      "backupPath": "backups/databases/openclaw.db",
+      "sourceModifiedAt": "2026-03-29T14:08:07.096Z",
+      "snapshotAt": "2026-03-29T14:08:07.118Z",
+      "sizeBytes": 77824,
+      "sha256": "6bf7eb45dff941e1dbeca78f1224703032b92134f2c7f9c8d5c80b36a1aee8d5"
+    }
+  ]
+}

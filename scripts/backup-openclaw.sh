@@ -6,6 +6,7 @@ PATH="/home/zoe/.local/bin:/usr/local/bin:/usr/bin:/bin:${PATH:-}"
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 WORKSPACE_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
 OPENCLAW_HOME="$(cd "$WORKSPACE_DIR/.." && pwd)"
+DB_BACKUP_SCRIPT="$SCRIPT_DIR/backup-openclaw-databases.js"
 LOCK_DIR="$OPENCLAW_HOME/run"
 LOCK_FILE="$LOCK_DIR/backup-openclaw.lock"
 
@@ -35,6 +36,9 @@ if ! git -C "$WORKSPACE_DIR" config user.email >/dev/null 2>&1; then
   log "Backup failed: git user.email is not configured."
   exit 1
 fi
+
+log "Refreshing database snapshots."
+node "$DB_BACKUP_SCRIPT"
 
 if [[ -z "$(git -C "$WORKSPACE_DIR" status --porcelain --untracked-files=all)" ]]; then
   log "Nothing to backup."
