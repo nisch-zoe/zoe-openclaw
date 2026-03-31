@@ -12,7 +12,8 @@ Mode: active | Quiet Until: -- | Last Check-In: 2026-03-30
 - OpenClaw backup hygiene: linked project repos now live in `~/Repos/` via workspace symlinks, the cron backup now snapshots `data/*.db` into `workspace/backups/databases/`, and the Git remote covers both workspace files and DB state without nesting those repos.
 - Fence product: polish core UX flows, refine onboarding, and get external TestFlight testing ready.
 - Fence launch ops: tighten early-access positioning and connect signup to invite flow before paying Apple fees.
-- Content hub: cleaned up and reset. Strategy shifted from Fence self-promotion to value-first useful content. 5 draft-ready ideas on the board, no rigid schedule.
+- Content hub: value-first strategy active. Backend is now markdown-native and file-first: active items live under `knowledge/content/items/`, review history is append-only in `reviews/`, platform status lives in `channels/`, and generated surfaces live at `knowledge/content/HUB.md` and `workspace/state/content-hub/index.json`. Legacy `knowledge/content/drafts/` items were migrated into the new schema on 2026-03-31.
+- Research pipelines: live and tested. Three pipelines (competitor-pulse, content-trends, reddit-listen) pull from Reddit, HN, dev.to, App Store. Deterministic scoring + LLM analysis prompts. Run via `node workspace/scripts/research.js <pipeline>`.
 - Workout tracking: local draft + session logging is now wired for Telegram workout capture and later analysis.
 
 ## Weekly Review Snapshot (2026-W13)
@@ -27,12 +28,14 @@ Mode: active | Quiet Until: -- | Last Check-In: 2026-03-30
 - Push one Fence milestone from doing/next to done (UX polish or onboarding concrete slice).
 - Log real activity when work lands: `node scripts/db.js log ...`.
 - Log every gym/swim session in workouts DB to avoid invisible progress.
-- Pick one content idea and draft it (best quick starts: Shortcuts backend / iOS-only capture constraints / local-first architecture).
+- Review drafts and pick one to polish for publishing. Strong candidates: 60 Percent Share Your Data (hard stat hook, most shareable), The Unfunded Advantage (provocative thesis), Day X of Zero Servers (recurring series potential). Older candidates: Airplane Mode Challenge, Privacy Policy Is 0 Words.
 - Repair idea inbox state file (`workspace/state/ideas.json`) before relying on script counts.
+- Run research pipelines 2-3x/week to build a baseline of competitive and content intelligence. Wire into heartbeat or cron for automation.
 
 ## Ideas Inbox
 Status unknown: `state/ideas.json` is not valid JSON (ideas CLI currently fails).
 
 ## Areas
 work | fitness | fence | content | learning | personal
-Last touched: work 2026-03-30; fitness 2026-03-28 (memory only); content 2026-03-28; personal 2026-03-28; learning 2026-03-14
+Last touched: work 2026-03-30; fitness 2026-03-28 (memory only); content 2026-03-31; personal 2026-03-28; learning 2026-03-14
+-03-14
