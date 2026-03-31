@@ -6,6 +6,7 @@ Fitness: gym reported on 2026-03-28 in memory, but 0 sessions logged in DB
 Mode: active | Quiet Until: -- | Last Check-In: 2026-03-30
 
 ## In Motion
+- Morning plan: finish onboarding polish and automation confirmation polish, prep the external TestFlight/beta setup, and log whatever gym/swim session happens today so workouts stay visible.
 - Full-time work: the unified NCM UI deployment pipeline is mostly done. Current state is a container that packages 2 UI apps: the legacy UI previously handled by the Calm backend, and the new container app intended to unify NCM products under one UI.
 - OpenClaw v2 redesign: replace the rigid manager layer with PULSE, a lean DB, and agent judgment.
 - OpenClaw backup hygiene: linked project repos now live in `~/Repos/` via workspace symlinks, the cron backup now snapshots `data/*.db` into `workspace/backups/databases/`, and the Git remote covers both workspace files and DB state without nesting those repos.
