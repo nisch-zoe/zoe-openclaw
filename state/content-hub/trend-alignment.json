@@ -1,0 +1,917 @@
+{
+  "generatedAt": "2026-03-31T17:22:51.708Z",
+  "available": true,
+  "summary": {
+    "pillarMap": {
+      "ios-engineering": 16,
+      "privacy-fintech": 14,
+      "indie-maker": 20,
+      "tools-workflows": 13,
+      "observations": 0
+    },
+    "pillarCounts": [
+      {
+        "pillar": "indie-maker",
+        "name": "Indie Maker Journey",
+        "count": 20
+      },
+      {
+        "pillar": "ios-engineering",
+        "name": "iOS / Mobile Engineering",
+        "count": 16
+      },
+      {
+        "pillar": "privacy-fintech",
+        "name": "Privacy & Fintech (India)",
+        "count": 14
+      },
+      {
+        "pillar": "tools-workflows",
+        "name": "Tools & Workflows",
+        "count": 13
+      },
+      {
+        "pillar": "observations",
+        "name": "Observations & Opinions",
+        "count": 0
+      }
+    ],
+    "topQueries": [
+      {
+        "platform": "instagram",
+        "query": "fintech india startup",
+        "posts": 4,
+        "totalEngagement": 750945,
+        "pillars": {
+          "privacy-fintech": 4,
+          "indie-maker": 3
+        },
+        "pillarMatches": [
+          {
+            "pillar": "privacy-fintech",
+            "name": "Privacy & Fintech (India)",
+            "count": 4
+          },
+          {
+            "pillar": "indie-maker",
+            "name": "Indie Maker Journey",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "platform": "instagram",
+        "query": "indie developer",
+        "posts": 4,
+        "totalEngagement": 108294,
+        "pillars": {
+          "indie-maker": 4,
+          "ios-engineering": 1
+        },
+        "pillarMatches": [
+          {
+            "pillar": "indie-maker",
+            "name": "Indie Maker Journey",
+            "count": 4
+          },
+          {
+            "pillar": "ios-engineering",
+            "name": "iOS / Mobile Engineering",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "platform": "instagram",
+        "query": "ios app development",
+        "posts": 4,
+        "totalEngagement": 33275,
+        "pillars": {
+          "ios-engineering": 4,
+          "indie-maker": 2
+        },
+        "pillarMatches": [
+          {
+            "pillar": "ios-engineering",
+            "name": "iOS / Mobile Engineering",
+            "count": 4
+          },
+          {
+            "pillar": "indie-maker",
+            "name": "Indie Maker Journey",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "platform": "instagram",
+        "query": "expense tracker app",
+        "posts": 8,
+        "totalEngagement": 3925,
+        "pillars": {
+          "tools-workflows": 2
+        },
+        "pillarMatches": [
+          {
+            "pillar": "tools-workflows",
+            "name": "Tools & Workflows",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "platform": "linkedin",
+        "query": "privacy engineering data",
+        "posts": 20,
+        "totalEngagement": 0,
+        "pillars": {
+          "privacy-fintech": 6,
+          "tools-workflows": 6
+        },
+        "pillarMatches": [
+          {
+            "pillar": "privacy-fintech",
+            "name": "Privacy & Fintech (India)",
+            "count": 6
+          },
+          {
+            "pillar": "tools-workflows",
+            "name": "Tools & Workflows",
+            "count": 6
+          }
+        ]
+      },
+      {
+        "platform": "twitter",
+        "query": "local first app",
+        "posts": 5,
+        "totalEngagement": 155,
+        "pillars": {
+          "tools-workflows": 1
+        },
+        "pillarMatches": [
+          {
+            "pillar": "tools-workflows",
+            "name": "Tools & Workflows",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "platform": "twitter",
+        "query": "build in public indie",
+        "posts": 7,
+        "totalEngagement": 52,
+        "pillars": {
+          "indie-maker": 7,
+          "ios-engineering": 1
+        },
+        "pillarMatches": [
+          {
+            "pillar": "indie-maker",
+            "name": "Indie Maker Journey",
+            "count": 7
+          },
+          {
+            "pillar": "ios-engineering",
+            "name": "iOS / Mobile Engineering",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "platform": "twitter",
+        "query": "expense tracker ios",
+        "posts": 5,
+        "totalEngagement": 78,
+        "pillars": {
+          "ios-engineering": 5,
+          "indie-maker": 2,
+          "privacy-fintech": 1
+        },
+        "pillarMatches": [
+          {
+            "pillar": "ios-engineering",
+            "name": "iOS / Mobile Engineering",
+            "count": 5
+          },
+          {
+            "pillar": "indie-maker",
+            "name": "Indie Maker Journey",
+            "count": 2
+          },
+          {
+            "pillar": "privacy-fintech",
+            "name": "Privacy & Fintech (India)",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "platform": "twitter",
+        "query": "AI coding tools",
+        "posts": 5,
+        "totalEngagement": 42,
+        "pillars": {
+          "indie-maker": 1,
+          "tools-workflows": 4
+        },
+        "pillarMatches": [
+          {
+            "pillar": "tools-workflows",
+            "name": "Tools & Workflows",
+            "count": 4
+          },
+          {
+            "pillar": "indie-maker",
+            "name": "Indie Maker Journey",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "platform": "twitter",
+        "query": "SwiftUI developer",
+        "posts": 5,
+        "totalEngagement": 33,
+        "pillars": {
+          "ios-engineering": 5,
+          "indie-maker": 1
+        },
+        "pillarMatches": [
+          {
+            "pillar": "ios-engineering",
+            "name": "iOS / Mobile Engineering",
+            "count": 5
+          },
+          {
+            "pillar": "indie-maker",
+            "name": "Indie Maker Journey",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "platform": "twitter",
+        "query": "privacy fintech india",
+        "posts": 3,
+        "totalEngagement": 9,
+        "pillars": {
+          "privacy-fintech": 3
+        },
+        "pillarMatches": [
+          {
+            "pillar": "privacy-fintech",
+            "name": "Privacy & Fintech (India)",
+            "count": 3
+          }
+        ]
+      }
+    ],
+    "topHashtags": [
+      {
+        "tag": "#fintech",
+        "posts": 2,
+        "totalEngagement": 749134
+      },
+      {
+        "tag": "#tech",
+        "posts": 2,
+        "totalEngagement": 526665
+      },
+      {
+        "tag": "#upi",
+        "posts": 1,
+        "totalEngagement": 525817
+      },
+      {
+        "tag": "#indiantechnology",
+        "posts": 1,
+        "totalEngagement": 525817
+      },
+      {
+        "tag": "#technews",
+        "posts": 1,
+        "totalEngagement": 525817
+      },
+      {
+        "tag": "#upipayments",
+        "posts": 1,
+        "totalEngagement": 525817
+      },
+      {
+        "tag": "#india",
+        "posts": 1,
+        "totalEngagement": 525817
+      },
+      {
+        "tag": "#sovrenn",
+        "posts": 1,
+        "totalEngagement": 223317
+      },
+      {
+        "tag": "#sharktankindia",
+        "posts": 1,
+        "totalEngagement": 223317
+      },
+      {
+        "tag": "#finance",
+        "posts": 1,
+        "totalEngagement": 223317
+      },
+      {
+        "tag": "#indiedeveloper",
+        "posts": 4,
+        "totalEngagement": 108294
+      },
+      {
+        "tag": "#madewithunity",
+        "posts": 1,
+        "totalEngagement": 73317
+      },
+      {
+        "tag": "#indiegame",
+        "posts": 1,
+        "totalEngagement": 73317
+      },
+      {
+        "tag": "#steamgames",
+        "posts": 1,
+        "totalEngagement": 73317
+      },
+      {
+        "tag": "#metroidvania",
+        "posts": 1,
+        "totalEngagement": 73317
+      }
+    ],
+    "twitterTrendTopics": [
+      {
+        "name": "#AprilFoolsDay",
+        "query": "#AprilFoolsDay",
+        "tweetVolume": 0,
+        "url": "http://twitter.com/search?q=%23AprilFoolsDay",
+        "locations": [
+          "Worldwide"
+        ]
+      },
+      {
+        "name": "#AssamBJPk31Sankalp",
+        "query": "#AssamBJPk31Sankalp",
+        "tweetVolume": 0,
+        "url": "http://twitter.com/search?q=%23AssamBJPk31Sankalp",
+        "locations": [
+          "India"
+        ]
+      },
+      {
+        "name": "#GodNightTuesday",
+        "query": "#GodNightTuesday",
+        "tweetVolume": 0,
+        "url": "http://twitter.com/search?q=%23GodNightTuesday",
+        "locations": [
+          "India"
+        ]
+      },
+      {
+        "name": "#JanaNayagan",
+        "query": "#JanaNayagan",
+        "tweetVolume": 0,
+        "url": "http://twitter.com/search?q=%23JanaNayagan",
+        "locations": [
+          "India"
+        ]
+      },
+      {
+        "name": "#PBKSvsGT",
+        "query": "#PBKSvsGT",
+        "tweetVolume": 0,
+        "url": "http://twitter.com/search?q=%23PBKSvsGT",
+        "locations": [
+          "India"
+        ]
+      },
+      {
+        "name": "#WEWILL_NEVER_GIVEUP_ON_ENHA_7",
+        "query": "#WEWILL_NEVER_GIVEUP_ON_ENHA_7",
+        "tweetVolume": 0,
+        "url": "http://twitter.com/search?q=%23WEWILL_NEVER_GIVEUP_ON_ENHA_7",
+        "locations": [
+          "India"
+        ]
+      },
+      {
+        "name": "#اعلانك_ترند_θち4l883θ7θ",
+        "query": "#اعلانك_ترند_θち4l883θ7θ",
+        "tweetVolume": 0,
+        "url": "http://twitter.com/search?q=%23%D8%A7%D8%B9%D9%84%D8%A7%D9%86%D9%83_%D8%AA%D8%B1%D9%86%D8%AF_%CE%B8%E3%81%A14l883%CE%B87%CE%B8",
+        "locations": [
+          "Worldwide"
+        ]
+      },
+      {
+        "name": "#عه_ين",
+        "query": "#عه_ين",
+        "tweetVolume": 0,
+        "url": "http://twitter.com/search?q=%23%D8%B9%D9%87_%D9%8A%D9%86",
+        "locations": [
+          "Worldwide"
+        ]
+      },
+      {
+        "name": "#星野源ANN",
+        "query": "#星野源ANN",
+        "tweetVolume": 0,
+        "url": "http://twitter.com/search?q=%23%E6%98%9F%E9%87%8E%E6%BA%90ANN",
+        "locations": [
+          "Worldwide"
+        ]
+      },
+      {
+        "name": "#黄金と獅子ゲーム",
+        "query": "#黄金と獅子ゲーム",
+        "tweetVolume": 0,
+        "url": "http://twitter.com/search?q=%23%E9%BB%84%E9%87%91%E3%81%A8%E7%8D%85%E5%AD%90%E3%82%B2%E3%83%BC%E3%83%A0",
+        "locations": [
+          "Worldwide"
+        ]
+      },
+      {
+        "name": "2.0 MV",
+        "query": "\"2.0+MV\"",
+        "tweetVolume": 0,
+        "url": "http://twitter.com/search?q=%222.0+MV%22",
+        "locations": [
+          "India"
+        ]
+      },
+      {
+        "name": "2.0 OFFICIAL MV IS COMING",
+        "query": "\"2.0+OFFICIAL+MV+IS+COMING\"",
+        "tweetVolume": 0,
+        "url": "http://twitter.com/search?q=%222.0+OFFICIAL+MV+IS+COMING%22",
+        "locations": [
+          "India",
+          "Worldwide"
+        ]
+      },
+      {
+        "name": "2.0 TEASER IS COMING",
+        "query": "\"2.0+TEASER+IS+COMING\"",
+        "tweetVolume": 0,
+        "url": "http://twitter.com/search?q=%222.0+TEASER+IS+COMING%22",
+        "locations": [
+          "Worldwide"
+        ]
+      },
+      {
+        "name": "2.0 TEASER OUT NOW",
+        "query": "\"2.0+TEASER+OUT+NOW\"",
+        "tweetVolume": 0,
+        "url": "http://twitter.com/search?q=%222.0+TEASER+OUT+NOW%22",
+        "locations": [
+          "Worldwide"
+        ]
+      },
+      {
+        "name": "April Fools",
+        "query": "\"April+Fools\"",
+        "tweetVolume": 0,
+        "url": "http://twitter.com/search?q=%22April+Fools%22",
+        "locations": [
+          "India"
+        ]
+      },
+      {
+        "name": "Arhama",
+        "query": "Arhama",
+        "tweetVolume": 0,
+        "url": "http://twitter.com/search?q=Arhama",
+        "locations": [
+          "India"
+        ]
+      },
+      {
+        "name": "Arshdeep Singh",
+        "query": "\"Arshdeep+Singh\"",
+        "tweetVolume": 0,
+        "url": "http://twitter.com/search?q=%22Arshdeep+Singh%22",
+        "locations": [
+          "India"
+        ]
+      },
+      {
+        "name": "Ashok Sharma",
+        "query": "\"Ashok+Sharma\"",
+        "tweetVolume": 0,
+        "url": "http://twitter.com/search?q=%22Ashok+Sharma%22",
+        "locations": [
+          "India"
+        ]
+      },
+      {
+        "name": "Backrooms",
+        "query": "Backrooms",
+        "tweetVolume": 0,
+        "url": "http://twitter.com/search?q=Backrooms",
+        "locations": [
+          "Worldwide"
+        ]
+      },
+      {
+        "name": "Beirut",
+        "query": "Beirut",
+        "tweetVolume": 0,
+        "url": "http://twitter.com/search?q=Beirut",
+        "locations": [
+          "India"
+        ]
+      }
+    ],
+    "topKeywords": [
+      "fintech india startup",
+      "fintech",
+      "india",
+      "startup",
+      "indie developer",
+      "indie",
+      "ios app development",
+      "ios",
+      "app",
+      "development",
+      "expense tracker app",
+      "expense",
+      "tracker",
+      "privacy engineering data",
+      "privacy",
+      "engineering",
+      "local first app",
+      "local",
+      "first",
+      "build in public indie",
+      "public",
+      "expense tracker ios",
+      "AI coding tools",
+      "coding",
+      "tools",
+      "SwiftUI developer",
+      "swiftui",
+      "privacy fintech india",
+      "tech",
+      "upi"
+    ]
+  },
+  "matchedItems": [
+    {
+      "slug": "i-audited-the-privacy-labels-of-8-expense-tracker-apps-in-india",
+      "title": "I Audited the Privacy Labels of 8 Expense Tracker Apps in India",
+      "state": "drafting",
+      "platforms": [
+        "linkedin",
+        "x",
+        "reddit"
+      ],
+      "path": "knowledge/content/items/i-audited-the-privacy-labels-of-8-expense-tracker-apps-in-india",
+      "score": 1314,
+      "matchedPillars": [
+        {
+          "pillar": "ios-engineering",
+          "name": "iOS / Mobile Engineering",
+          "score": 16
+        },
+        {
+          "pillar": "privacy-fintech",
+          "name": "Privacy & Fintech (India)",
+          "score": 14
+        },
+        {
+          "pillar": "indie-maker",
+          "name": "Indie Maker Journey",
+          "score": 20
+        }
+      ],
+      "keywordHits": [
+        "india",
+        "ios",
+        "app",
+        "expense tracker app",
+        "expense",
+        "tracker",
+        "privacy"
+      ],
+      "excerpt": "I Audited the Privacy Labels of 8 Expense Tracker Apps on the Indian App Store. Here's What They Collect. Apple requires every iOS app to declare exactly what…"
+    },
+    {
+      "slug": "60-percent-share-your-data",
+      "title": "60 Percent Share Your Data",
+      "state": "drafting",
+      "platforms": [
+        "linkedin",
+        "x"
+      ],
+      "path": "knowledge/content/items/60-percent-share-your-data",
+      "score": 1239,
+      "matchedPillars": [
+        {
+          "pillar": "privacy-fintech",
+          "name": "Privacy & Fintech (India)",
+          "score": 14
+        },
+        {
+          "pillar": "indie-maker",
+          "name": "Indie Maker Journey",
+          "score": 20
+        },
+        {
+          "pillar": "tools-workflows",
+          "name": "Tools & Workflows",
+          "score": 13
+        }
+      ],
+      "keywordHits": [
+        "fintech",
+        "indie",
+        "app",
+        "privacy",
+        "local",
+        "first",
+        "tech"
+      ],
+      "excerpt": "60% of the 20 most popular budgeting apps share your data with third parties. That number comes from a 2026 Incogni research study that analyzed privacy practi…"
+    },
+    {
+      "slug": "0-server-cost-the-anti-startup-flex",
+      "title": "₹0 Server Cost — The Anti-Startup Flex",
+      "state": "drafting",
+      "platforms": [
+        "linkedin",
+        "x"
+      ],
+      "path": "knowledge/content/items/0-server-cost-the-anti-startup-flex",
+      "score": 1231,
+      "matchedPillars": [
+        {
+          "pillar": "privacy-fintech",
+          "name": "Privacy & Fintech (India)",
+          "score": 14
+        },
+        {
+          "pillar": "indie-maker",
+          "name": "Indie Maker Journey",
+          "score": 20
+        },
+        {
+          "pillar": "tools-workflows",
+          "name": "Tools & Workflows",
+          "score": 13
+        }
+      ],
+      "keywordHits": [
+        "fintech",
+        "india",
+        "startup",
+        "local",
+        "first",
+        "tech"
+      ],
+      "excerpt": "Draft: ₹0 Server Cost — The Anti-Startup Flex Angle Confrontational, opinionated take. Targets the startup culture where cloud spending is treated as a badge o…"
+    },
+    {
+      "slug": "day-x-of-zero-servers",
+      "title": "Day X of Zero Servers",
+      "state": "drafting",
+      "platforms": [
+        "linkedin",
+        "x"
+      ],
+      "path": "knowledge/content/items/day-x-of-zero-servers",
+      "score": 914,
+      "matchedPillars": [
+        {
+          "pillar": "privacy-fintech",
+          "name": "Privacy & Fintech (India)",
+          "score": 14
+        },
+        {
+          "pillar": "indie-maker",
+          "name": "Indie Maker Journey",
+          "score": 20
+        }
+      ],
+      "keywordHits": [
+        "fintech",
+        "india",
+        "indie",
+        "app",
+        "first",
+        "public",
+        "tech"
+      ],
+      "excerpt": "Day 147 of building a finance app with zero servers. Today's infrastructure cost: still ₹0. I don't mean \"low.\" I don't mean \"we use a generous free tier.\" I m…"
+    },
+    {
+      "slug": "the-unfunded-advantage",
+      "title": "The Unfunded Advantage",
+      "state": "drafting",
+      "platforms": [
+        "linkedin",
+        "x"
+      ],
+      "path": "knowledge/content/items/the-unfunded-advantage",
+      "score": 906,
+      "matchedPillars": [
+        {
+          "pillar": "privacy-fintech",
+          "name": "Privacy & Fintech (India)",
+          "score": 14
+        },
+        {
+          "pillar": "indie-maker",
+          "name": "Indie Maker Journey",
+          "score": 20
+        }
+      ],
+      "keywordHits": [
+        "fintech",
+        "indie",
+        "app",
+        "privacy",
+        "first",
+        "tech"
+      ],
+      "excerpt": "My app's biggest competitive advantage has nothing to do with code. It's that I don't have investors who need to see my users' data monetized. Here's a pattern…"
+    },
+    {
+      "slug": "the-architecture-of-a-local-first-ai-agent-that-manages-my-side-project",
+      "title": "The Architecture of a Local-First AI Agent That Manages My Side Project",
+      "state": "drafting",
+      "platforms": [
+        "linkedin",
+        "x"
+      ],
+      "path": "knowledge/content/items/the-architecture-of-a-local-first-ai-agent-that-manages-my-side-project",
+      "score": 857,
+      "matchedPillars": [
+        {
+          "pillar": "indie-maker",
+          "name": "Indie Maker Journey",
+          "score": 20
+        },
+        {
+          "pillar": "tools-workflows",
+          "name": "Tools & Workflows",
+          "score": 13
+        }
+      ],
+      "keywordHits": [
+        "local",
+        "first",
+        "tech"
+      ],
+      "excerpt": "The Architecture of a Local-First AI Agent That Manages My Side Project My side project has a project manager. It's an AI agent that runs locally, tracks what…"
+    },
+    {
+      "slug": "your-productivity-system-doesnt-survive-tuesday",
+      "title": "Your Productivity System Doesn't Survive Tuesday",
+      "state": "drafting",
+      "platforms": [
+        "linkedin",
+        "x"
+      ],
+      "path": "knowledge/content/items/your-productivity-system-doesnt-survive-tuesday",
+      "score": 833,
+      "matchedPillars": [
+        {
+          "pillar": "indie-maker",
+          "name": "Indie Maker Journey",
+          "score": 20
+        },
+        {
+          "pillar": "tools-workflows",
+          "name": "Tools & Workflows",
+          "score": 13
+        }
+      ],
+      "keywordHits": [],
+      "excerpt": "Every productivity system I've ever tried assumes the same thing: that tomorrow will go as planned. It won't. It never does. And the system that actually works…"
+    },
+    {
+      "slug": "the-breach-proof-architecture",
+      "title": "The Breach-Proof Architecture",
+      "state": "drafting",
+      "platforms": [
+        "linkedin",
+        "x"
+      ],
+      "path": "knowledge/content/items/the-breach-proof-architecture",
+      "score": 723,
+      "matchedPillars": [
+        {
+          "pillar": "privacy-fintech",
+          "name": "Privacy & Fintech (India)",
+          "score": 14
+        },
+        {
+          "pillar": "tools-workflows",
+          "name": "Tools & Workflows",
+          "score": 13
+        }
+      ],
+      "keywordHits": [
+        "app",
+        "privacy",
+        "local",
+        "first",
+        "tech"
+      ],
+      "excerpt": "Draft: The Breach-Proof Architecture Angle: Builder/technical perspective — the personal story of choosing to not build a server, and why the strongest privacy…"
+    },
+    {
+      "slug": "i-built-a-competitive-intelligence-pipeline-for-zero-dollars",
+      "title": "I Built a Competitive Intelligence Pipeline for Zero Dollars",
+      "state": "drafting",
+      "platforms": [
+        "linkedin",
+        "x"
+      ],
+      "path": "knowledge/content/items/i-built-a-competitive-intelligence-pipeline-for-zero-dollars",
+      "score": 532,
+      "matchedPillars": [
+        {
+          "pillar": "indie-maker",
+          "name": "Indie Maker Journey",
+          "score": 20
+        }
+      ],
+      "keywordHits": [
+        "indie",
+        "public",
+        "tech"
+      ],
+      "excerpt": "I Built a Competitive Intelligence Pipeline for $0 — Here's Exactly How Yesterday I built a competitive intelligence pipeline that monitors my competitors acro…"
+    },
+    {
+      "slug": "what-my-week-actually-looks-like",
+      "title": "What My Week Actually Looks Like",
+      "state": "drafting",
+      "platforms": [
+        "linkedin",
+        "x"
+      ],
+      "path": "knowledge/content/items/what-my-week-actually-looks-like",
+      "score": 516,
+      "matchedPillars": [
+        {
+          "pillar": "indie-maker",
+          "name": "Indie Maker Journey",
+          "score": 20
+        }
+      ],
+      "keywordHits": [
+        "app"
+      ],
+      "excerpt": "Last Saturday I went to the gym, spent half the day on a date, did zero work on my side project, and my AI manager marked it as a good day. Let me walk you thr…"
+    },
+    {
+      "slug": "i-open-telegram-and-my-ai-knows-what-i-was-working-on-last-tuesday",
+      "title": "I Open Telegram and My AI Knows What I Was Working On Last Tuesday",
+      "state": "drafting",
+      "platforms": [
+        "linkedin",
+        "x"
+      ],
+      "path": "knowledge/content/items/i-open-telegram-and-my-ai-knows-what-i-was-working-on-last-tuesday",
+      "score": 508,
+      "matchedPillars": [
+        {
+          "pillar": "indie-maker",
+          "name": "Indie Maker Journey",
+          "score": 20
+        }
+      ],
+      "keywordHits": [],
+      "excerpt": "I Open Telegram and My AI Knows What I Was Working On Last Tuesday I opened Telegram this morning and my AI agent told me I'd been stuck on the same onboarding…"
+    },
+    {
+      "slug": "the-gym-isnt-optional-the-deadline-is",
+      "title": "The Gym Isn't Optional, The Deadline Is",
+      "state": "drafting",
+      "platforms": [
+        "linkedin",
+        "x"
+      ],
+      "path": "knowledge/content/items/the-gym-isnt-optional-the-deadline-is",
+      "score": 508,
+      "matchedPillars": [
+        {
+          "pillar": "indie-maker",
+          "name": "Indie Maker Journey",
+          "score": 20
+        }
+      ],
+      "keywordHits": [],
+      "excerpt": "I balance a full-time job, a side project, and the gym. And if I had to drop one tomorrow, it wouldn't be the gym. That sounds wrong. The job pays the bills. T…"
+    }
+  ],
+  "uncoveredQueries": []
+}
