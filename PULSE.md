@@ -1,17 +1,17 @@
 # Pulse
 
-Updated: 2026-04-02 (Thu, morning check)
-Energy: -- | Work: office 3d/week; NCM deployment automation nearly done | Sleep: --
-Fitness: gym reported on 2026-03-28 in memory, but 0 sessions logged in DB
-Mode: active | Quiet Until: -- | Last Check-In: 2026-03-30
+Updated: 2026-04-02 (Thu, midday update)
+Energy: -- | Work: heavy, but the bug's initial fix is done and PR is up for review/testing | Sleep: --
+Fitness: gym yesterday, swim today
+Mode: active | Quiet Until: -- | Last Check-In: 2026-04-02
 
 ## In Motion
-- Today (Thu): focus on Fence UX/onboarding polish, finish external TestFlight/friend-beta prep, wire signup into the invite pipeline, and log today's gym/swim so workouts stay visible.
-- Morning plan: finish onboarding & automation confirmation polish (microcopy + success flows), finalize external TestFlight/friend-beta prep, wire signup → invite pipeline, and log today's gym/swim so workouts stay visible.
+- Today (Thu): keep work stable, finish PR review/testing for the bug fix, and avoid overcommitting while personal plans take priority.
+- Short-term: posting momentum resumed today with a LinkedIn + X post; next step is distribution consistency, not creating a pile of new drafts.
 - Full-time work: the unified NCM UI deployment pipeline is mostly done. Current state is a container that packages 2 UI apps: the legacy UI previously handled by the Calm backend, and the new container app intended to unify NCM products under one UI.
 - OpenClaw v2 redesign: replace the rigid manager layer with PULSE, a lean DB, and agent judgment.
 - OpenClaw backup hygiene: linked project repos now live in `~/Repos/` via workspace symlinks, the cron backup now snapshots `data/*.db` into `workspace/backups/databases/`, and the Git remote covers both workspace files and DB state without nesting those repos.
-- Fence product: polish core UX flows, refine onboarding, and get external TestFlight testing ready.
+- Fence product: still important, but currently quiet while work pressure and content/distribution take the front seat.
 - Fence launch ops: tighten early-access positioning and connect signup to invite flow before paying Apple fees.
 - Content hub: value-first strategy active. Backend is now markdown-native and file-first: active items live under `knowledge/content/items/`, review history is append-only in `reviews/`, platform status lives in `channels/`, and generated surfaces live at `knowledge/content/HUB.md` and `workspace/state/content-hub/index.json`. Legacy `knowledge/content/drafts/` items were migrated into the new schema on 2026-03-31.
 - Research pipelines: live and tested. Free tier covers competitor-pulse, content-trends, and reddit-listen (Reddit, HN, dev.to, App Store). Paid social-trends is now live via API Direct for Twitter/X, Instagram, and LinkedIn, with X live trends plus optional content-hub overlay mode so trend alignment can stay separate or steer draft selection on demand. First live paid scan ran on 2026-03-31 and wrote both `knowledge/reference/research/social-trends/` and `knowledge/content/TREND-ALIGNMENT.md`. Run via `node workspace/scripts/research.js <pipeline>`.
@@ -24,7 +24,7 @@ Mode: active | Quiet Until: -- | Last Check-In: 2026-03-30
 - Area neglect risk: learning is stale (last touched 2026-03-14); fitness execution is under-logged (0 DB sessions despite gym note).
 
 ## Follow Up
-- Get a fresh read on workload, sleep, and energy before setting Monday scope.
+- Workload is heavy; protect focus and avoid stacking ambitious Fence work until the office bug/PR pressure drops.
 - Define measurable outcomes for the unified NCM UI pipeline once rollout stabilizes: deployment speed, deployment reliability, rollback friction, and migration progress from the Calm-served legacy UI toward the unified container UI.
 - Push one Fence milestone from doing/next to done (UX polish or onboarding concrete slice).
 - Log real activity when work lands: `node scripts/db.js log ...`.
