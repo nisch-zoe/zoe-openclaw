@@ -1,11 +1,12 @@
 # Pulse
 
-Updated: 2026-03-30 (Mon, work context refreshed)
+Updated: 2026-04-02 (Thu, morning check)
 Energy: -- | Work: office 3d/week; NCM deployment automation nearly done | Sleep: --
 Fitness: gym reported on 2026-03-28 in memory, but 0 sessions logged in DB
 Mode: active | Quiet Until: -- | Last Check-In: 2026-03-30
 
 ## In Motion
+- Today (Thu): focus on Fence UX/onboarding polish, finish external TestFlight/friend-beta prep, wire signup into the invite pipeline, and log today's gym/swim so workouts stay visible.
 - Morning plan: finish onboarding & automation confirmation polish (microcopy + success flows), finalize external TestFlight/friend-beta prep, wire signup → invite pipeline, and log today's gym/swim so workouts stay visible.
 - Full-time work: the unified NCM UI deployment pipeline is mostly done. Current state is a container that packages 2 UI apps: the legacy UI previously handled by the Calm backend, and the new container app intended to unify NCM products under one UI.
 - OpenClaw v2 redesign: replace the rigid manager layer with PULSE, a lean DB, and agent judgment.
