@@ -1,21 +1,14 @@
 # Pulse
 
-Updated: 2026-04-03 (Fri, morning planning)
-Energy: -- | Work: heavy, but the bug's initial fix is done and PR is up for review/testing | Sleep: --
+Updated: 2026-04-04 (Sat, morning planning)
+Energy: -- | Work: heavy, still leaning on the office bug fix review/testing | Sleep: --
 Fitness: gym yesterday, swim today
 Mode: active | Quiet Until: -- | Last Check-In: 2026-04-03
 
 ## In Motion
-- Today (Fri): keep the office bug fix PR moving, let it anchor the day, and keep Fence work constrained to refining onboarding + signup/invite plumbing without stacking new launches.
-- Short-term: posting momentum resumed today with a LinkedIn + X post; next step is distribution consistency, not creating a pile of new drafts.
-- Full-time work: the unified NCM UI deployment pipeline is mostly done. Current state is a container that packages 2 UI apps: the legacy UI previously handled by the Calm backend, and the new container app intended to unify NCM products under one UI.
-- OpenClaw v2 redesign: replace the rigid manager layer with PULSE, a lean DB, and agent judgment.
-- OpenClaw backup hygiene: linked project repos now live in `~/Repos/` via workspace symlinks, the cron backup now snapshots `data/*.db` into `workspace/backups/databases/`, and the Git remote covers both workspace files and DB state without nesting those repos.
-- Fence product: still important, but currently quiet while work pressure and content/distribution take the front seat.
-- Fence launch ops: tighten early-access positioning and connect signup to invite flow before paying Apple fees.
-- Content hub: value-first strategy active. Backend is now markdown-native and file-first: active items live under `knowledge/content/items/`, review history is append-only in `reviews/`, platform status lives in `channels/`, and generated surfaces live at `knowledge/content/HUB.md` and `workspace/state/content-hub/index.json`. Legacy `knowledge/content/drafts/` items were migrated into the new schema on 2026-03-31.
-- Research pipelines: live and tested. Free tier covers competitor-pulse, content-trends, and reddit-listen (Reddit, HN, dev.to, App Store). Paid social-trends is now live via API Direct for Twitter/X, Instagram, and LinkedIn, with X live trends plus optional content-hub overlay mode so trend alignment can stay separate or steer draft selection on demand. First live paid scan ran on 2026-03-31 and wrote both `knowledge/reference/research/social-trends/` and `knowledge/content/TREND-ALIGNMENT.md`. Run via `node workspace/scripts/research.js <pipeline>`.
-- Workout tracking: local draft + session logging is now wired for Telegram workout capture and later analysis.
+- Today (Sat): keep the office bug fix PR moving—wrap up testing, capture review notes, and only pivot to Fence once that pressure is under control so the weekend stays focused.
+- Short-term: after the PR lands, lock in the onboarding refinements (budget skip/set-later path, empty states, Shortcut completion CTA) while the beta invite/TestFlight prep stays on hold until we can commit deliberate time.
+- Weekend spacing: treat Fence as a single finishable milestone (self-messaging test bug or signup-invite wiring) and log swim/gym sessions so fitness stays visible even on a heavy day.
 
 ## Weekly Review Snapshot (2026-W13)
 - Tracked completions this week: 0 done tasks; 1 activity log entry in last 7 days (work area).
