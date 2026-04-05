@@ -1,14 +1,15 @@
 # Pulse
 
-Updated: 2026-04-04 (Sat, morning planning)
-Energy: -- | Work: heavy, still leaning on the office bug fix review/testing | Sleep: --
-Fitness: gym yesterday, swim today
-Mode: active | Quiet Until: -- | Last Check-In: 2026-04-03
+Updated: 2026-04-04 (Sat, night reset)
+Energy: recovering | Work: heavy, still leaning on the office bug fix review/testing | Sleep: rough after birthday/party stretch
+Fitness: gym on 2026-04-04; recent swim on 2026-04-02
+Mode: active | Quiet Until: -- | Last Check-In: 2026-04-04
 
 ## In Motion
-- Today (Sat): keep the office bug fix PR moving—wrap up testing, capture review notes, and only pivot to Fence once that pressure is under control so the weekend stays focused.
-- Short-term: after the PR lands, lock in the onboarding refinements (budget skip/set-later path, empty states, Shortcut completion CTA) while the beta invite/TestFlight prep stays on hold until we can commit deliberate time.
-- Weekend spacing: treat Fence as a single finishable milestone (self-messaging test bug or signup-invite wiring) and log swim/gym sessions so fitness stays visible even on a heavy day.
+- Immediate: stop pretending more pre-launch marketing is the main job. Fence has a live landing page + waitlist; the next move is launch execution.
+- Launch posture: aim to launch Fence within ~10 days, then learn from real users instead of polishing in private forever.
+- Marketing: useful only insofar as it supports launch/distribution. It should not be allowed to cosplay as progress.
+- Morning focus: finish the self-messaging test bug, lock down the external TestFlight beta setup, and wire landing-page signups directly into the invite pipeline so the friend beta starts with clean data.
 
 ## Weekly Review Snapshot (2026-W13)
 - Tracked completions this week: 0 done tasks; 1 activity log entry in last 7 days (work area).

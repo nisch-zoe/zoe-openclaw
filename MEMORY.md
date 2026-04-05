@@ -36,8 +36,9 @@ See: `USER.md` for full profile
 ### Expense Tracker iOS
 - Details: `../knowledge/projects/fence/overview.md`
 - **Marketing Campaign**: `../knowledge/projects/fence/marketing/overview.md`
-- Status: Active development complete. Marketing phase starting fresh (2026-03-14).
-- Strategy: First week focuses on building credibility without mentioning the product (iOS shortcuts, finance automations, build-in-public, AI-related posts).
+- Status: App is built enough to launch; `fence.money` is live with a landing page and waitlist.
+- Current decision: stop hiding behind endless pre-launch marketing and push for a real launch in the next ~10 days.
+- Strategy: marketing should support launch and distribution, not delay shipping.
 - Channels: X, LinkedIn, Reddit.
 
 ### Zoe Manager Layer
@@ -67,6 +68,7 @@ See: `USER.md` for full profile
 - Growth includes work, fitness, products, personal life, and learning
 - Plans should adapt to sleep, recovery, and work pressure instead of staying rigid
 - Not every idea should become a task
+- Don’t coddle him; direct, slightly harsh honesty is welcome when he’s drifting or rationalizing.
 - **Model providers**: ALWAYS use `google-gemini-cli/<model>` (1st priority), `google-antigravity/<model>` (fallback), or `openai-codex/<model>` (OpenAI models) — all use Nisch's existing subscriptions, no extra API cost. Use `openai-codex/gpt-5.3-codex` with high thinking for heavy reasoning tasks. See `CODING.md` for full routing strategy.
 
 ---
