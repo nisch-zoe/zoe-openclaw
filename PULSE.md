@@ -6,26 +6,20 @@ Fitness: gym on 2026-04-04; recent swim on 2026-04-02
 Mode: active | Quiet Until: -- | Last Check-In: 2026-04-04
 
 ## In Motion
-- Immediate: stop pretending more pre-launch marketing is the main job. Fence has a live landing page + waitlist; the next move is launch execution.
-- Launch posture: aim to launch Fence within ~10 days, then learn from real users instead of polishing in private forever.
-- Marketing: useful only insofar as it supports launch/distribution. It should not be allowed to cosplay as progress.
-- Morning focus: finish the self-messaging test bug, lock down the external TestFlight beta setup, and wire landing-page signups directly into the invite pipeline so the friend beta starts with clean data.
+- Immediate: Shift from drafting mode to shipping mode. Stop the content generation spree.
+- Launch posture: Fence launch execution is the ONLY priority. Content is secondary to shipping the beta.
+- Marketing: Stop marketing cosplay. Distribute existing drafts, don't write new ones.
+- Weekly Focus: Ship the self-messaging bug fix, lock down the external TestFlight beta, and onboard the first 5 beta users.
 
-## Weekly Review Snapshot (2026-W13)
-- Tracked completions this week: 0 done tasks; 1 activity log entry in last 7 days (work area).
-- Execution moved mostly in system/setup work (backup hardening, workspace cleanup, workout tracking plumbing), not in shipped product milestones.
-- Coverage gap: daily memory only exists for 2026-03-28 and 2026-03-29 (5 of last 7 days had no daily file).
-- Area neglect risk: learning is stale (last touched 2026-03-14); fitness execution is under-logged (0 DB sessions despite gym note).
+## Weekly Review Snapshot (2026-W14)
+- Activity: Heavy content generation on 2026-03-31; zero shipping movement for Fence.
+- Coverage: Gaps in daily memory (missing 3rd, 5th).
+- Area neglect risk: Product execution is lagging behind strategic planning/drafting.
 
 ## Follow Up
-- Workload is heavy; protect focus and avoid stacking ambitious Fence work until the office bug/PR pressure drops.
-- Define measurable outcomes for the unified NCM UI pipeline once rollout stabilizes: deployment speed, deployment reliability, rollback friction, and migration progress from the Calm-served legacy UI toward the unified container UI.
-- Push one Fence milestone from doing/next to done (UX polish or onboarding concrete slice).
-- Log real activity when work lands: `node scripts/db.js log ...`.
-- Log every gym/swim session in workouts DB to avoid invisible progress.
-- Review drafts and pick one to polish for publishing. Strong candidates: 60 Percent Share Your Data (hard stat hook, most shareable), The Unfunded Advantage (provocative thesis), Day X of Zero Servers (recurring series potential). Older candidates: Airplane Mode Challenge, Privacy Policy Is 0 Words. Newer candidates (2026-04-01): "The Hardest Problem in Indian Fintech Is a Regex" (technical deep-dive), "Someone on Reddit Just Built My App With a Shortcut" (builder's reflection, strongest personal voice), "India Has 47 Banks, 47 SMS Formats, and Zero Standards" (industry opinion, broadest reach). New iOS engineering drafts: 3 variations on iOS on-device ML models (Neural Engine walkthrough, cost comparison, setup guide) written 2026-04-01. New AI/tools drafts: 3 variations on agents vs chatbots (builder's test, accessible explainer, industry critique) written 2026-04-01. New opinions drafts: 3 variations repurposing Jack Dorsey's "From Hierarchy to Intelligence" Block essay (indie maker parallel, skeptical analysis, historical/civilizational take) written 2026-04-01.
-- Repair idea inbox state file (`workspace/state/ideas.json`) before relying on script counts.
-- Run research pipelines 2-3x/week to build a baseline of competitive and content intelligence. Wire into heartbeat or cron for automation.
+- SHIP. Fix the bug, open the TestFlight.
+- Publish one draft every 2 days from the existing backlog.
+- Stop researching. You have enough.
 
 ## Ideas Inbox
 Status unknown: `state/ideas.json` is not valid JSON (ideas CLI currently fails).
