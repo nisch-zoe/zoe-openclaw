@@ -2,8 +2,8 @@
 
 Updated: 2026-04-04 (Sat, night reset)
 Energy: recovering | Work: heavy, still leaning on the office bug fix review/testing | Sleep: rough after birthday/party stretch
-Fitness: gym on 2026-04-04; recent swim on 2026-04-02
-Mode: active | Quiet Until: -- | Last Check-In: 2026-04-04
+Fitness: gym on 2026-04-04; recent swim on 2026-04-06
+Mode: active | Quiet Until: -- | Last Check-In: 2026-04-07
 
 ## In Motion
 - Immediate: Shift from drafting mode to shipping mode. Stop the content generation spree.
