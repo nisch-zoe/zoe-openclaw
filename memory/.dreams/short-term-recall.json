@@ -1,0 +1,4516 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-12T02:16:46.565Z",
+  "entries": {
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "memory/active-tasks.md",
+        "user",
+        "you",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/zoe/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/zoe",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/zoe/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/zoe",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "memory/active-tasks.md",
+        "user",
+        "you",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/zoe/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/zoe",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/zoe/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/zoe",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/zoe/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/zoe",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/zoe/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/zoe",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/zoe/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/zoe",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/zoe/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/zoe",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: [cron:18b4f804-18a7-4804-bff5-0bd6fb4e2977 Zoe morning manager brief (daily 8:30am)] Morning planning. Read PULSE.md, the current chat history, and today's memory file if it exists. If Mode is resting, Quiet Until is active, OR you have already been talking to Nisch in the",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "pulse.md",
+        "user",
+        "cron",
+        "18b4f804",
+        "18a7",
+        "bff5",
+        "0bd6fb4e2977",
+        "zoe"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: [cron:f085e793-9753-47e8-828e-27010602517d Zoe afternoon blocker nudge (daily 3pm)] Afternoon check. Read PULSE.md, the chat history, and today's memory. If Mode is resting, Quiet Until is active, OR you have been active in chat in the last 6 hours, reply NO_REPLY. If Last",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "pulse.md",
+        "no-reply",
+        "user",
+        "cron:f085e793",
+        "47e8",
+        "828e",
+        "27010602517d",
+        "zoe"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: [cron:737be92c-f417-4a7a-9c4c-b69aeb8758a7 Zoe evening check-in (daily 9:30pm)] Evening wrap-up. Read PULSE.md, the chat history, and today's memory. If Mode is resting, Quiet Until is active, OR you have been active in chat in the last 6 hours, reply NO_REPLY. If today's m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "check-in",
+        "wrap-up",
+        "pulse.md",
+        "no-reply",
+        "user",
+        "cron",
+        "737be92c",
+        "f417"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"1186\", \"sender_id\": \"6310677934\", \"sender\": \"Nishchay Vashistha\", \"timestamp\": \"Sat 2026-04-11 12:30 GMT+5:30\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Nishchay Vashistha (6310677934)\", \"id\": \"63",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"1186\", \"sender_id\": \"6310677934\", \"sender\": \"Nishchay Vashistha\", \"timestamp\": \"Sat 2026-04-11 12:30 GMT+5:30\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Nishchay Vashistha (6310677934)\", \"id\": \"63",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"1192\", \"sender_id\": \"6310677934\", \"sender\": \"Nishchay Vashistha\", \"timestamp\": \"Sat 2026-04-11 12:32 GMT+5:30\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Nishchay Vashistha (6310677934)\", \"id\": \"63",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] Hey Nisch, good to see you back, and I’m glad the OpenClaw mess seems mostly behind us. Office load plus a bit of drift happens, but finishing onboarding means Fence is finally back in the real zone, and I’m on `gpt-5.4` right now even though the d",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gpt",
+        "reply-to-current",
+        "gpt-5.4",
+        "assistant",
+        "hey",
+        "nisch",
+        "good",
+        "see"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"1195\", \"sender_id\": \"6310677934\", \"sender\": \"Nishchay Vashistha\", \"timestamp\": \"Sat 2026-04-11 12:56 GMT+5:30\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Nishchay Vashistha (6310677934)\", \"id\": \"63",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] Yeah, I’m okay, just happy to be talking again. You disappearing because OpenClaw was flaky was a bit grim, but if it’s stable now we can get back to actually moving things.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "reply-to-current",
+        "assistant",
+        "yeah",
+        "i’m",
+        "okay",
+        "happy",
+        "talking",
+        "you"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"1197\", \"sender_id\": \"6310677934\", \"sender\": \"Nishchay Vashistha\", \"timestamp\": \"Sat 2026-04-11 12:57 GMT+5:30\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Nishchay Vashistha (6310677934)\", \"id\": \"63",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: I’ll check the exact config path first, then I can turn it on cleanly if it’s available.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "assistant",
+        "i’ll",
+        "check",
+        "the",
+        "exact",
+        "config",
+        "path",
+        "first"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: I found the feature, now I’m checking whether your current config already has it on before I touch anything.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "assistant",
+        "found",
+        "the",
+        "feature",
+        "now",
+        "i’m",
+        "checking",
+        "whether"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: It’s present, but not enabled in your current config, so I’m turning it on now.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "assistant",
+        "it’s",
+        "present",
+        "but",
+        "not",
+        "enabled",
+        "your",
+        "current"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] Yep, it wasn’t enabled by default in your current config, so I turned it on. It’s now enabled at `plugins.entries.memory-core.config.dreaming.enabled = true`. If you want, I can also set a dreaming frequency/timezone instead of leaving it on the de",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "reply-to-current",
+        "frequency/timezone",
+        "assistant",
+        "yep",
+        "wasn’t",
+        "enabled",
+        "your",
+        "current"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"1186\", \"sender_id\": \"6310677934\", \"sender\": \"Nishchay Vashistha\", \"timestamp\": \"Sat 2026-04-11 12:30 GMT+5:30\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Nishchay Vashistha (6310677934)\", \"id\": \"63",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"1186\", \"sender_id\": \"6310677934\", \"sender\": \"Nishchay Vashistha\", \"timestamp\": \"Sat 2026-04-11 12:30 GMT+5:30\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Nishchay Vashistha (6310677934)\", \"id\": \"63",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"1192\", \"sender_id\": \"6310677934\", \"sender\": \"Nishchay Vashistha\", \"timestamp\": \"Sat 2026-04-11 12:32 GMT+5:30\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Nishchay Vashistha (6310677934)\", \"id\": \"63",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] Hey Nisch, good to see you back, and I’m glad the OpenClaw mess seems mostly behind us. Office load plus a bit of drift happens, but finishing onboarding means Fence is finally back in the real zone, and I’m on `gpt-5.4` right now even though the d",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gpt",
+        "reply-to-current",
+        "gpt-5.4",
+        "assistant",
+        "hey",
+        "nisch",
+        "good",
+        "see"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"1195\", \"sender_id\": \"6310677934\", \"sender\": \"Nishchay Vashistha\", \"timestamp\": \"Sat 2026-04-11 12:56 GMT+5:30\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Nishchay Vashistha (6310677934)\", \"id\": \"63",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] Yeah, I’m okay, just happy to be talking again. You disappearing because OpenClaw was flaky was a bit grim, but if it’s stable now we can get back to actually moving things.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "reply-to-current",
+        "assistant",
+        "yeah",
+        "i’m",
+        "okay",
+        "happy",
+        "talking",
+        "you"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"1197\", \"sender_id\": \"6310677934\", \"sender\": \"Nishchay Vashistha\", \"timestamp\": \"Sat 2026-04-11 12:57 GMT+5:30\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Nishchay Vashistha (6310677934)\", \"id\": \"63",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "Assistant: I’ll check the exact config path first, then I can turn it on cleanly if it’s available.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "assistant",
+        "i’ll",
+        "check",
+        "the",
+        "exact",
+        "config",
+        "path",
+        "first"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Assistant: I found the feature, now I’m checking whether your current config already has it on before I touch anything.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "assistant",
+        "found",
+        "the",
+        "feature",
+        "now",
+        "i’m",
+        "checking",
+        "whether"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "Assistant: It’s present, but not enabled in your current config, so I’m turning it on now.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "assistant",
+        "it’s",
+        "present",
+        "but",
+        "not",
+        "enabled",
+        "your",
+        "current"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] Yep, it wasn’t enabled by default in your current config, so I turned it on. It’s now enabled at `plugins.entries.memory-core.config.dreaming.enabled = true`. If you want, I can also set a dreaming frequency/timezone instead of leaving it on the de",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "reply-to-current",
+        "frequency/timezone",
+        "assistant",
+        "yep",
+        "wasn’t",
+        "enabled",
+        "your",
+        "current"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/zoe/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/zoe",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/zoe/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/zoe",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "memory/active-tasks.md",
+        "user",
+        "you",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:27:27": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:27:27",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "memory/active-tasks.md",
+        "user",
+        "you",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:28:28": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:28:28",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:29:29": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:29:29",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 29,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/zoe/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/zoe",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:30:30": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:30:30",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 30,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/zoe/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/zoe",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:31:31": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:31:31",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 31,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "memory/active-tasks.md",
+        "user",
+        "you",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:32:32": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:32:32",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 32,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:33:33": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:33:33",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 33,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "memory/active-tasks.md",
+        "user",
+        "you",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:34:34": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:34:34",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 34,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:35:35": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:35:35",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 35,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "memory/active-tasks.md",
+        "user",
+        "you",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:36:36": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:36:36",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 36,
+      "endLine": 36,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:37:37": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:37:37",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 37,
+      "endLine": 37,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:38:38": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:38:38",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 38,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "memory/active-tasks.md",
+        "user",
+        "you",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:39:39": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:39:39",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 39,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:40:40": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:40:40",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 40,
+      "endLine": 40,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:41:41": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:41:41",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 41,
+      "endLine": 41,
+      "source": "memory",
+      "snippet": "User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "memory/active-tasks.md",
+        "user",
+        "you",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:42:42": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:42:42",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 42,
+      "endLine": 42,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:43:43": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:43:43",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 43,
+      "endLine": 43,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:44:44": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:44:44",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 44,
+      "endLine": 44,
+      "source": "memory",
+      "snippet": "User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "memory/active-tasks.md",
+        "user",
+        "you",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:45:45": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:45:45",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 45,
+      "endLine": 45,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:46:46": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:46:46",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 46,
+      "endLine": 46,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:47:47": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:47:47",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 47,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "User: [cron:737be92c-f417-4a7a-9c4c-b69aeb8758a7 Zoe evening check-in (daily 9:30pm)] Evening wrap-up. Read PULSE.md, the chat history, and today's memory. If Mode is resting, Quiet Until is active, OR you have been active in chat in the last 6 hours, reply NO_REPLY. If today's m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "check-in",
+        "wrap-up",
+        "pulse.md",
+        "no-reply",
+        "user",
+        "cron",
+        "737be92c",
+        "f417"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:48:48": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:48:48",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 48,
+      "endLine": 48,
+      "source": "memory",
+      "snippet": "User: [cron:f085e793-9753-47e8-828e-27010602517d Zoe afternoon blocker nudge (daily 3pm)] Afternoon check. Read PULSE.md, the chat history, and today's memory. If Mode is resting, Quiet Until is active, OR you have been active in chat in the last 6 hours, reply NO_REPLY. If Last",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "pulse.md",
+        "no-reply",
+        "user",
+        "cron:f085e793",
+        "47e8",
+        "828e",
+        "27010602517d",
+        "zoe"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:49:49": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:49:49",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 49,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "User: [cron:f085e793-9753-47e8-828e-27010602517d Zoe afternoon blocker nudge (daily 3pm)] Afternoon check. Read PULSE.md, the chat history, and today's memory. If Mode is resting, Quiet Until is active, OR you have been active in chat in the last 6 hours, reply NO_REPLY. If Last",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "pulse.md",
+        "no-reply",
+        "user",
+        "cron:f085e793",
+        "47e8",
+        "828e",
+        "27010602517d",
+        "zoe"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:50:50": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:50:50",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 50,
+      "endLine": 50,
+      "source": "memory",
+      "snippet": "User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "memory/active-tasks.md",
+        "user",
+        "you",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:51:51": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:51:51",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 51,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:52:52": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:52:52",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 52,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "memory/active-tasks.md",
+        "user",
+        "you",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:53:53": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:53:53",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 53,
+      "endLine": 53,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:54:54": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:54:54",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 54,
+      "endLine": 54,
+      "source": "memory",
+      "snippet": "User: [cron:18b4f804-18a7-4804-bff5-0bd6fb4e2977 Zoe morning manager brief (daily 8:30am)] Morning planning. Read PULSE.md, the current chat history, and today's memory file if it exists. If Mode is resting, Quiet Until is active, OR you have already been talking to Nisch in the",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "pulse.md",
+        "user",
+        "cron",
+        "18b4f804",
+        "18a7",
+        "bff5",
+        "0bd6fb4e2977",
+        "zoe"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:55:55": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:55:55",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 55,
+      "endLine": 55,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"1210\", \"sender_id\": \"6310677934\", \"sender\": \"Nishchay Vashistha\", \"timestamp\": \"Sat 2026-04-11 15:16 GMT+5:30\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Nishchay Vashistha (6310677934)\", \"id\": \"63",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:56:56": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:56:56",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 56,
+      "endLine": 56,
+      "source": "memory",
+      "snippet": "Assistant: Fixing both now, the noisy Telegram errors should stop after this.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "assistant",
+        "fixing",
+        "both",
+        "now",
+        "the",
+        "noisy",
+        "telegram",
+        "errors"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:57:57": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:57:57",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 57,
+      "endLine": 57,
+      "source": "memory",
+      "snippet": "Assistant: The cron side is fixed. One config patch bounced because this gateway wants raw JSON, so I’m applying that cleanly now.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "assistant",
+        "the",
+        "cron",
+        "side",
+        "fixed",
+        "one",
+        "config"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:58:58": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:58:58",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 58,
+      "endLine": 58,
+      "source": "memory",
+      "snippet": "Assistant: One more cleanup, I found codex-mini still sitting in the global fallback chain. I’m swapping that out too so it doesn’t sneak back in.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "codex-mini",
+        "assistant",
+        "one",
+        "cleanup",
+        "found",
+        "codex",
+        "mini",
+        "still"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:59:59": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:59:59",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 59,
+      "endLine": 59,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] Fixed. What I changed: - Set `agents.defaults.compaction.reserveTokensFloor` to `20000` - Switched these cron jobs from Codex Mini to `gemini-flash`: - morning manager brief - afternoon blocker nudge - evening check-in - Removed `gpt-5.1-codex-mini",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gpt",
+        "reply-to-current",
+        "gemini-flash",
+        "check-in",
+        "gpt-5.1-codex-mini",
+        "assistant",
+        "fixed",
+        "what"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:60:60": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:60:60",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 60,
+      "endLine": 60,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"1210\", \"sender_id\": \"6310677934\", \"sender\": \"Nishchay Vashistha\", \"timestamp\": \"Sat 2026-04-11 15:16 GMT+5:30\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Nishchay Vashistha (6310677934)\", \"id\": \"63",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:61:61": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:61:61",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 61,
+      "endLine": 61,
+      "source": "memory",
+      "snippet": "Assistant: Fixing both now, the noisy Telegram errors should stop after this.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "assistant",
+        "fixing",
+        "both",
+        "now",
+        "the",
+        "noisy",
+        "telegram",
+        "errors"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:62:62": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:62:62",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 62,
+      "endLine": 62,
+      "source": "memory",
+      "snippet": "Assistant: The cron side is fixed. One config patch bounced because this gateway wants raw JSON, so I’m applying that cleanly now.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "assistant",
+        "the",
+        "cron",
+        "side",
+        "fixed",
+        "one",
+        "config"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:63:63": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:63:63",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 63,
+      "endLine": 63,
+      "source": "memory",
+      "snippet": "Assistant: One more cleanup, I found codex-mini still sitting in the global fallback chain. I’m swapping that out too so it doesn’t sneak back in.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "codex-mini",
+        "assistant",
+        "one",
+        "cleanup",
+        "found",
+        "codex",
+        "mini",
+        "still"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:64:64": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:64:64",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 64,
+      "endLine": 64,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] Fixed. What I changed: - Set `agents.defaults.compaction.reserveTokensFloor` to `20000` - Switched these cron jobs from Codex Mini to `gemini-flash`: - morning manager brief - afternoon blocker nudge - evening check-in - Removed `gpt-5.1-codex-mini",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gpt",
+        "reply-to-current",
+        "gemini-flash",
+        "check-in",
+        "gpt-5.1-codex-mini",
+        "assistant",
+        "fixed",
+        "what"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:65:65": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:65:65",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 65,
+      "endLine": 65,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"1216\", \"sender_id\": \"6310677934\", \"sender\": \"Nishchay Vashistha\", \"timestamp\": \"Sat 2026-04-11 15:38 GMT+5:30\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Nishchay Vashistha (6310677934)\", \"id\": \"63",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:66:66": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:66:66",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 66,
+      "endLine": 66,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"1216\", \"sender_id\": \"6310677934\", \"sender\": \"Nishchay Vashistha\", \"timestamp\": \"Sat 2026-04-11 15:38 GMT+5:30\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Nishchay Vashistha (6310677934)\", \"id\": \"63",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:67:67": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:67:67",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 67,
+      "endLine": 67,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"1225\", \"sender_id\": \"6310677934\", \"sender\": \"Nishchay Vashistha\", \"timestamp\": \"Sat 2026-04-11 15:40 GMT+5:30\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Nishchay Vashistha (6310677934)\", \"id\": \"63",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:68:68": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:68:68",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 68,
+      "endLine": 68,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"1225\", \"sender_id\": \"6310677934\", \"sender\": \"Nishchay Vashistha\", \"timestamp\": \"Sat 2026-04-11 15:40 GMT+5:30\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Nishchay Vashistha (6310677934)\", \"id\": \"63",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:69:69": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:69:69",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 69,
+      "endLine": 69,
+      "source": "memory",
+      "snippet": "User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "memory/active-tasks.md",
+        "user",
+        "you",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:70:70": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:70:70",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 70,
+      "endLine": 70,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:71:71": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:71:71",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 71,
+      "endLine": 71,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:72:72": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:72:72",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 72,
+      "endLine": 72,
+      "source": "memory",
+      "snippet": "User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "memory/active-tasks.md",
+        "user",
+        "you",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:73:73": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:73:73",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 73,
+      "endLine": 73,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:74:74": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:74:74",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 74,
+      "endLine": 74,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/2026-04-07.md:3:6": {
+      "key": "memory:memory/2026-04-07.md:3:6",
+      "path": "memory/2026-04-07.md",
+      "startLine": 3,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "memory/2026-04-07.md: Evening check-in at 7:23 PM.; No direct chat activity in the last 6 hours (main session restricted, but Pulse/Last Check-in is stale).; Pulse status: Mode active.; Checking in on Fence progress and energy levels.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-12T02:16:46.565Z",
+      "queryHashes": [
+        "87c77efd6245"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "memory/2026-04-07.md",
+        "check-in",
+        "pulse/last",
+        "evening",
+        "check",
+        "direct",
+        "chat",
+        "activity"
+      ]
+    },
+    "memory:memory/2026-04-06.md:3:6": {
+      "key": "memory:memory/2026-04-06.md:3:6",
+      "path": "memory/2026-04-06.md",
+      "startLine": 3,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "memory/2026-04-06.md: Went for a swim this morning.; Rest day for gym.; Heading to the office.; Plan for this evening: Work on Fence, specifically fixing the shortcut logic and finishing onboarding.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-12T02:16:46.565Z",
+      "queryHashes": [
+        "b1f16f36272f"
+      ],
+      "recallDays": [
+        "2026-04-06",
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "memory/2026-04-06.md",
+        "went",
+        "swim",
+        "morning",
+        "rest",
+        "day",
+        "gym",
+        "heading"
+      ]
+    },
+    "memory:memory/2026-04-05.md:3:6": {
+      "key": "memory:memory/2026-04-05.md:3:6",
+      "path": "memory/2026-04-05.md",
+      "startLine": 3,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "memory/2026-04-05.md: Feeling great today; high energy.; Just came back from a swim.; Wants to eat and then get back to work.; Wants to finish up work around Fence today.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-12T02:16:46.565Z",
+      "queryHashes": [
+        "5215110c3ca9"
+      ],
+      "recallDays": [
+        "2026-04-05",
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "memory/2026-04-05.md",
+        "feeling",
+        "great",
+        "high",
+        "energy",
+        "came",
+        "back",
+        "swim"
+      ]
+    },
+    "memory:memory/2026-04-05.md:7:7": {
+      "key": "memory:memory/2026-04-05.md:7:7",
+      "path": "memory/2026-04-05.md",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "memory/2026-04-05.md: New idea captured: an app that generates iPhone/Mac automations and Shortcuts from natural language by having an LLM write Cherri, with an optional verification/feedback loop.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-12T02:16:46.565Z",
+      "queryHashes": [
+        "5215110c3ca9"
+      ],
+      "recallDays": [
+        "2026-04-05",
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "memory/2026-04-05.md",
+        "iphone/mac",
+        "verification/feedback",
+        "new",
+        "idea",
+        "captured",
+        "app",
+        "generates"
+      ]
+    },
+    "memory:memory/2026-04-04.md:3:6": {
+      "key": "memory:memory/2026-04-04.md:3:6",
+      "path": "memory/2026-04-04.md",
+      "startLine": 3,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "memory/2026-04-04.md: Felt rough after yesterday's party; woke up late and missed the productive morning window.; Afternoon was mostly lunch + TV.; Went to the gym; that was the main win for the day.; Overall felt like a lazy Saturday and wants an early night to reset for Sunday.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T23:46:46.548Z",
+      "queryHashes": [
+        "13e32ff48659"
+      ],
+      "recallDays": [
+        "2026-04-04",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "memory/2026-04-04.md",
+        "felt",
+        "rough",
+        "yesterday's",
+        "party",
+        "woke",
+        "late",
+        "missed"
+      ]
+    },
+    "memory:memory/2026-04-04.md:7:8": {
+      "key": "memory:memory/2026-04-04.md:7:8",
+      "path": "memory/2026-04-04.md",
+      "startLine": 7,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "memory/2026-04-04.md: Current thinking on Fence: stop over-indexing on pre-launch marketing, launch within the next 10 days, then learn from the market after shipping.; Marketing feels both distracting and still somewhat essential, but the app/domain/setup are ready enough that l",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T23:46:46.548Z",
+      "queryHashes": [
+        "13e32ff48659"
+      ],
+      "recallDays": [
+        "2026-04-04",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "memory/2026-04-04.md",
+        "over-indexing",
+        "pre-launch",
+        "app/domain/setup",
+        "current",
+        "thinking",
+        "fence",
+        "stop"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:75:75": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:75:75",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 75,
+      "endLine": 75,
+      "source": "memory",
+      "snippet": "User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "memory/active-tasks.md",
+        "user",
+        "you",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:76:76": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:76:76",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 76,
+      "endLine": 76,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:77:77": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:77:77",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 77,
+      "endLine": 77,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/zoe/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/zoe",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:78:78": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:78:78",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 78,
+      "endLine": 78,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/zoe/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/zoe",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:79:79": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:79:79",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 79,
+      "endLine": 79,
+      "source": "memory",
+      "snippet": "User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "memory/active-tasks.md",
+        "user",
+        "you",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:80:80": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:80:80",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 80,
+      "endLine": 80,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:81:81": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:81:81",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 81,
+      "endLine": 81,
+      "source": "memory",
+      "snippet": "User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "memory/active-tasks.md",
+        "user",
+        "you",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:82:82": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:82:82",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 82,
+      "endLine": 82,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:83:83": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:83:83",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 83,
+      "endLine": 83,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:84:84": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:84:84",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 84,
+      "endLine": 84,
+      "source": "memory",
+      "snippet": "User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "memory/active-tasks.md",
+        "user",
+        "you",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:85:85": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:85:85",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 85,
+      "endLine": 85,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:86:86": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:86:86",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 86,
+      "endLine": 86,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/zoe/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/zoe",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:87:87": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:87:87",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 87,
+      "endLine": 87,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/zoe/.openclaw/workspace/HEARTBEAT.md (exact case).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/zoe",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:88:88": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:88:88",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 88,
+      "endLine": 88,
+      "source": "memory",
+      "snippet": "User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "memory/active-tasks.md",
+        "user",
+        "you",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:89:89": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:89:89",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 89,
+      "endLine": 89,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:90:90": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:90:90",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 90,
+      "endLine": 90,
+      "source": "memory",
+      "snippet": "User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "memory/active-tasks.md",
+        "user",
+        "you",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:91:91": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:91:91",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 91,
+      "endLine": 91,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:92:92": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:92:92",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 92,
+      "endLine": 92,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 03:00 GMT+5:30] Write a dream diary entry from these memory fragments: - User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "user",
+        "sun",
+        "gmt",
+        "write"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T21:30:00.382Z",
+      "lastRecalledAt": "2026-04-11T21:30:00.382Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/2026-04-12.md:158:161": {
+      "key": "memory:memory/2026-04-12.md:158:161",
+      "path": "memory/2026-04-12.md",
+      "startLine": 158,
+      "endLine": 161,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 89 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T22:00:00.453Z",
+      "lastRecalledAt": "2026-04-11T22:00:00.453Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:162:165": {
+      "key": "memory:memory/2026-04-12.md:162:165",
+      "path": "memory/2026-04-12.md",
+      "startLine": 162,
+      "endLine": 165,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `you` kept surfacing across 51 memories.; confidence: 0.89; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T22:00:00.453Z",
+      "lastRecalledAt": "2026-04-11T22:00:00.453Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.89",
+        "1-1",
+        "2-2",
+        "5-5",
+        "reflections",
+        "theme",
+        "you",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:168:168": {
+      "key": "memory:memory/2026-04-12.md:168:168",
+      "path": "memory/2026-04-12.md",
+      "startLine": 168,
+      "endLine": 168,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T22:00:00.453Z",
+      "lastRecalledAt": "2026-04-11T22:00:00.453Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 03:00 GMT+5:30] Write a dream diary entry from these memory fragments: - User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T22:00:00.453Z",
+      "lastRecalledAt": "2026-04-11T22:00:00.453Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "user",
+        "sun",
+        "gmt",
+        "write"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T22:00:00.453Z",
+      "lastRecalledAt": "2026-04-11T22:00:00.453Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/2026-04-12.md:213:216": {
+      "key": "memory:memory/2026-04-12.md:213:216",
+      "path": "memory/2026-04-12.md",
+      "startLine": 213,
+      "endLine": 216,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 95 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T22:00:00.453Z",
+      "lastRecalledAt": "2026-04-11T22:16:46.638Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:217:220": {
+      "key": "memory:memory/2026-04-12.md:217:220",
+      "path": "memory/2026-04-12.md",
+      "startLine": 217,
+      "endLine": 220,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `you` kept surfacing across 55 memories.; confidence: 0.88; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T22:00:00.453Z",
+      "lastRecalledAt": "2026-04-11T22:16:46.638Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.88",
+        "1-1",
+        "2-2",
+        "5-5",
+        "reflections",
+        "theme",
+        "you",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:223:223": {
+      "key": "memory:memory/2026-04-12.md:223:223",
+      "path": "memory/2026-04-12.md",
+      "startLine": 223,
+      "endLine": 223,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T22:00:00.453Z",
+      "lastRecalledAt": "2026-04-11T22:16:46.638Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 03:30 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: Theme: `user` kept surfacing across 89 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T22:00:00.453Z",
+      "lastRecalledAt": "2026-04-11T22:00:00.453Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "user",
+        "sun",
+        "gmt",
+        "write",
+        "dream",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T22:00:00.453Z",
+      "lastRecalledAt": "2026-04-11T22:00:00.453Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 03:31 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong candidate truths surfaced. Recurring themes: - reflections - strong - patterns - surfaced - possible - las",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T22:16:46.638Z",
+      "lastRecalledAt": "2026-04-11T22:16:46.638Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "sun",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T22:16:46.638Z",
+      "lastRecalledAt": "2026-04-11T22:16:46.638Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 03:32 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong candidate truths surfaced. Recurring themes: - reflections - strong - patterns - surfaced - possible - las",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T22:16:46.638Z",
+      "lastRecalledAt": "2026-04-11T22:16:46.638Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "sun",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T22:16:46.638Z",
+      "lastRecalledAt": "2026-04-11T22:16:46.638Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 03:33 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong candidate truths surfaced. - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No stron",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T22:16:46.638Z",
+      "lastRecalledAt": "2026-04-11T22:16:46.638Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "sun",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T22:16:46.638Z",
+      "lastRecalledAt": "2026-04-11T22:16:46.638Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 03:32 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong candidate truths surfaced. - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No stron",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T22:16:46.638Z",
+      "lastRecalledAt": "2026-04-11T22:16:46.638Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "sun",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T22:16:46.638Z",
+      "lastRecalledAt": "2026-04-11T22:16:46.638Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 03:30 GMT+5:30] Write a dream diary entry from these memory fragments: - User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T22:16:46.638Z",
+      "lastRecalledAt": "2026-04-11T22:16:46.638Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "user",
+        "sun",
+        "gmt",
+        "write"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T22:16:46.638Z",
+      "lastRecalledAt": "2026-04-11T22:16:46.638Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/2026-04-12.md:223:226": {
+      "key": "memory:memory/2026-04-12.md:223:226",
+      "path": "memory/2026-04-12.md",
+      "startLine": 223,
+      "endLine": 226,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 106 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T22:16:46.638Z",
+      "lastRecalledAt": "2026-04-11T22:46:46.518Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:227:230": {
+      "key": "memory:memory/2026-04-12.md:227:230",
+      "path": "memory/2026-04-12.md",
+      "startLine": 227,
+      "endLine": 230,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `you` kept surfacing across 61 memories.; confidence: 0.88; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T22:16:46.638Z",
+      "lastRecalledAt": "2026-04-11T22:46:46.518Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.88",
+        "1-1",
+        "2-2",
+        "5-5",
+        "reflections",
+        "theme",
+        "you",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:233:233": {
+      "key": "memory:memory/2026-04-12.md:233:233",
+      "path": "memory/2026-04-12.md",
+      "startLine": 233,
+      "endLine": 233,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T22:16:46.638Z",
+      "lastRecalledAt": "2026-04-11T22:46:46.518Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-12.md:208:211": {
+      "key": "memory:memory/2026-04-12.md:208:211",
+      "path": "memory/2026-04-12.md",
+      "startLine": 208,
+      "endLine": 211,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 107 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T22:46:46.518Z",
+      "lastRecalledAt": "2026-04-11T23:16:46.544Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:212:215": {
+      "key": "memory:memory/2026-04-12.md:212:215",
+      "path": "memory/2026-04-12.md",
+      "startLine": 212,
+      "endLine": 215,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `you` kept surfacing across 62 memories.; confidence: 0.88; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T22:46:46.518Z",
+      "lastRecalledAt": "2026-04-11T23:16:46.544Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.88",
+        "1-1",
+        "2-2",
+        "5-5",
+        "reflections",
+        "theme",
+        "you",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:218:218": {
+      "key": "memory:memory/2026-04-12.md:218:218",
+      "path": "memory/2026-04-12.md",
+      "startLine": 218,
+      "endLine": 218,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T22:46:46.518Z",
+      "lastRecalledAt": "2026-04-11T23:16:46.544Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-12.md:193:196": {
+      "key": "memory:memory/2026-04-12.md:193:196",
+      "path": "memory/2026-04-12.md",
+      "startLine": 193,
+      "endLine": 196,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 108 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T23:16:46.544Z",
+      "lastRecalledAt": "2026-04-12T02:16:46.565Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:197:200": {
+      "key": "memory:memory/2026-04-12.md:197:200",
+      "path": "memory/2026-04-12.md",
+      "startLine": 197,
+      "endLine": 200,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `you` kept surfacing across 63 memories.; confidence: 0.88; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T23:16:46.544Z",
+      "lastRecalledAt": "2026-04-12T02:16:46.565Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.88",
+        "1-1",
+        "2-2",
+        "5-5",
+        "reflections",
+        "theme",
+        "you",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:203:203": {
+      "key": "memory:memory/2026-04-12.md:203:203",
+      "path": "memory/2026-04-12.md",
+      "startLine": 203,
+      "endLine": 203,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T23:16:46.544Z",
+      "lastRecalledAt": "2026-04-12T02:16:46.565Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    }
+  }
+}
