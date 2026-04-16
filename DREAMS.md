@@ -546,4 +546,144 @@ Reflections: Theme: `user` kept surfacing across 1119 memories.; confidence: 1.0
 
 User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If
 
+
+---
+
+*April 15, 2026 at 10:16 PM*
+
+Reflections: Theme: `off` kept surfacing across 776 memories.; confidence: 0.82; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:26-26; note: reflection
+
+
+---
+
+*April 15, 2026 at 10:16 PM*
+
+User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If
+
+
+---
+
+*April 15, 2026 at 10:46 PM*
+
+Reflections: Theme: `user` kept surfacing across 1599 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:3-3; note: reflection
+
+
+---
+
+*April 15, 2026 at 10:46 PM*
+
+User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If
+
+
+---
+
+*April 15, 2026 at 11:16 PM*
+
+Reflections: Theme: `user` kept surfacing across 1599 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:3-3; note: reflection
+
+
+---
+
+*April 15, 2026 at 11:16 PM*
+
+User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If
+
+
+---
+
+*April 15, 2026 at 11:46 PM*
+
+Reflections: Theme: `user` kept surfacing across 1599 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:3-3; note: reflection
+
+
+---
+
+*April 15, 2026 at 11:46 PM*
+
+User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If
+
+
+---
+
+*April 16, 2026 at 12:16 AM*
+
+Reflections: Theme: `user` kept surfacing across 1599 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:3-3; note: reflection
+
+
+---
+
+*April 16, 2026 at 12:16 AM*
+
+User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If
+
+
+---
+
+*April 16, 2026 at 12:46 AM*
+
+Reflections: Theme: `user` kept surfacing across 1599 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:3-3; note: reflection
+
+
+---
+
+*April 16, 2026 at 12:46 AM*
+
+User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If
+
+
+---
+
+*April 16, 2026 at 1:16 AM*
+
+Reflections: Theme: `off` kept surfacing across 782 memories.; confidence: 0.82; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:26-26; note: reflection
+
+
+---
+
+*April 16, 2026 at 1:16 AM*
+
+User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If
+
+
+---
+
+*April 16, 2026 at 1:46 AM*
+
+Reflections: Theme: `off` kept surfacing across 782 memories.; confidence: 0.82; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:26-26; note: reflection
+
+
+---
+
+*April 16, 2026 at 1:46 AM*
+
+User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If
+
+
+---
+
+*April 16, 2026 at 2:16 AM*
+
+Reflections: Theme: `off` kept surfacing across 782 memories.; confidence: 0.82; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:26-26; note: reflection
+
+
+---
+
+*April 16, 2026 at 2:16 AM*
+
+User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If
+
+
+---
+
+*April 16, 2026 at 2:46 AM*
+
+Reflections: Theme: `off` kept surfacing across 782 memories.; confidence: 0.82; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:26-26; note: reflection
+
+
+---
+
+*April 16, 2026 at 2:46 AM*
+
+User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If
+
 <!-- openclaw:dreaming:diary:end -->
