@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-17T03:46:47.348Z",
+  "updatedAt": "2026-04-27T08:47:10.337Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-09.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:1:1",
@@ -4434,7 +4434,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-11T23:16:46.544Z",
-      "lastRecalledAt": "2026-04-17T03:16:47.569Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "01679c334ef2"
       ],
@@ -4469,7 +4469,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-11T23:16:46.544Z",
-      "lastRecalledAt": "2026-04-17T03:16:47.569Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "01679c334ef2"
       ],
@@ -4504,7 +4504,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-11T23:16:46.544Z",
-      "lastRecalledAt": "2026-04-17T03:16:47.569Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "01679c334ef2"
       ],
@@ -7601,7 +7601,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T04:46:46.563Z",
-      "lastRecalledAt": "2026-04-17T03:16:47.569Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
@@ -7634,7 +7634,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T04:46:46.563Z",
-      "lastRecalledAt": "2026-04-17T03:16:47.569Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
@@ -18020,7 +18020,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T16:46:46.736Z",
-      "lastRecalledAt": "2026-04-17T03:16:47.569Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
@@ -18053,7 +18053,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T16:46:46.736Z",
-      "lastRecalledAt": "2026-04-17T03:16:47.569Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
@@ -18086,7 +18086,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T16:46:46.736Z",
-      "lastRecalledAt": "2026-04-17T03:16:47.569Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
@@ -19326,7 +19326,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T18:46:46.801Z",
-      "lastRecalledAt": "2026-04-17T03:16:47.569Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
@@ -19359,7 +19359,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T18:46:46.801Z",
-      "lastRecalledAt": "2026-04-17T03:16:47.569Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
@@ -24037,7 +24037,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T22:16:46.813Z",
-      "lastRecalledAt": "2026-04-17T03:16:47.569Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
@@ -24070,7 +24070,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T22:16:46.813Z",
-      "lastRecalledAt": "2026-04-17T03:16:47.569Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
@@ -24103,7 +24103,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T22:16:46.813Z",
-      "lastRecalledAt": "2026-04-17T03:16:47.569Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
@@ -24136,7 +24136,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T22:16:46.813Z",
-      "lastRecalledAt": "2026-04-17T03:16:47.569Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
@@ -24169,7 +24169,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T22:16:46.813Z",
-      "lastRecalledAt": "2026-04-17T03:16:47.569Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
@@ -26026,7 +26026,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-14T05:46:46.874Z",
-      "lastRecalledAt": "2026-04-17T03:16:47.569Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
@@ -26058,7 +26058,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-14T05:46:46.874Z",
-      "lastRecalledAt": "2026-04-17T03:16:47.569Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
@@ -65403,14 +65403,14 @@
       "startLine": 178,
       "endLine": 181,
       "source": "memory",
-      "snippet": "Reflections: Theme: `user` kept surfacing across 1788 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:3-3; note: reflection",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 1825 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:3-3; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-16T22:00:01.272Z",
-      "lastRecalledAt": "2026-04-17T03:46:47.348Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "500c0eda9949"
       ],
@@ -65435,14 +65435,14 @@
       "startLine": 182,
       "endLine": 185,
       "source": "memory",
-      "snippet": "Reflections: Theme: `you` kept surfacing across 924 memories.; confidence: 0.85; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:5-5; note: reflection",
+      "snippet": "Reflections: Theme: `you` kept surfacing across 943 memories.; confidence: 0.85; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:5-5; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-16T22:00:01.272Z",
-      "lastRecalledAt": "2026-04-17T03:46:47.348Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "500c0eda9949"
       ],
@@ -65467,14 +65467,14 @@
       "startLine": 186,
       "endLine": 189,
       "source": "memory",
-      "snippet": "Reflections: Theme: `left` kept surfacing across 888 memories.; confidence: 0.82; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:26-26; note: reflection",
+      "snippet": "Reflections: Theme: `left` kept surfacing across 906 memories.; confidence: 0.82; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:26-26; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-16T22:00:01.272Z",
-      "lastRecalledAt": "2026-04-17T03:46:47.348Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "500c0eda9949"
       ],
@@ -67552,14 +67552,14 @@
       "startLine": 198,
       "endLine": 201,
       "source": "memory",
-      "snippet": "Reflections: Theme: `off` kept surfacing across 879 memories.; confidence: 0.81; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:26-26; note: reflection",
+      "snippet": "Reflections: Theme: `off` kept surfacing across 898 memories.; confidence: 0.81; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:26-26; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-17T02:46:47.345Z",
-      "lastRecalledAt": "2026-04-17T03:46:47.348Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "500c0eda9949"
       ],
@@ -67583,14 +67583,14 @@
       "startLine": 202,
       "endLine": 205,
       "source": "memory",
-      "snippet": "Reflections: Theme: `previous` kept surfacing across 879 memories.; confidence: 0.81; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:26-26; note: reflection",
+      "snippet": "Reflections: Theme: `previous` kept surfacing across 898 memories.; confidence: 0.81; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:26-26; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-17T02:46:47.345Z",
-      "lastRecalledAt": "2026-04-17T03:46:47.348Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "500c0eda9949"
       ],
@@ -67614,14 +67614,14 @@
       "startLine": 206,
       "endLine": 209,
       "source": "memory",
-      "snippet": "Reflections: Theme: `where` kept surfacing across 878 memories.; confidence: 0.81; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:26-26; note: reflection",
+      "snippet": "Reflections: Theme: `where` kept surfacing across 885 memories.; confidence: 0.81; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:26-26; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-17T02:46:47.345Z",
-      "lastRecalledAt": "2026-04-17T03:46:47.348Z",
+      "lastRecalledAt": "2026-04-17T04:16:47.372Z",
       "queryHashes": [
         "500c0eda9949"
       ],
@@ -67767,14 +67767,14 @@
       "startLine": 190,
       "endLine": 193,
       "source": "memory",
-      "snippet": "Reflections: Theme: `the` kept surfacing across 887 memories.; confidence: 0.82; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:8-8; note: reflection",
+      "snippet": "Reflections: Theme: `the` kept surfacing across 906 memories.; confidence: 0.82; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:8-8; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-17T03:16:47.569Z",
-      "lastRecalledAt": "2026-04-17T03:46:47.348Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "500c0eda9949"
       ],
@@ -67798,14 +67798,14 @@
       "startLine": 194,
       "endLine": 197,
       "source": "memory",
-      "snippet": "Reflections: Theme: `continue` kept surfacing across 885 memories.; confidence: 0.81; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:26-26; note: reflection",
+      "snippet": "Reflections: Theme: `continue` kept surfacing across 904 memories.; confidence: 0.81; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:26-26; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-17T03:16:47.569Z",
-      "lastRecalledAt": "2026-04-17T03:46:47.348Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
       "queryHashes": [
         "500c0eda9949"
       ],
@@ -67898,7 +67898,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-17T03:46:47.348Z",
-      "lastRecalledAt": "2026-04-17T03:46:47.348Z",
+      "lastRecalledAt": "2026-04-17T04:16:47.372Z",
       "queryHashes": [
         "500c0eda9949"
       ],
@@ -68222,6 +68222,2476 @@
         "off",
         "the",
         "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:38:38": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:38:38",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 38,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "User: [Fri 2026-04-17 09:16 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: Theme: `user` kept surfacing across 1788 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.t",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T03:46:47.348Z",
+      "lastRecalledAt": "2026-04-17T03:46:47.348Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "user",
+        "fri",
+        "gmt",
+        "write",
+        "dream",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:39:39": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:39:39",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 39,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T03:46:47.348Z",
+      "lastRecalledAt": "2026-04-17T03:46:47.348Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:40:40": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:40:40",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 40,
+      "endLine": 40,
+      "source": "memory",
+      "snippet": "User: [Fri 2026-04-17 09:19 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong candidate truths surfaced. - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No stron",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:16:47.372Z",
+      "lastRecalledAt": "2026-04-17T04:16:47.372Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "fri",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:41:41": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:41:41",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 41,
+      "endLine": 41,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:16:47.372Z",
+      "lastRecalledAt": "2026-04-17T04:16:47.372Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:42:42": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:42:42",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 42,
+      "endLine": 42,
+      "source": "memory",
+      "snippet": "User: [Fri 2026-04-17 09:17 GMT+5:30] Write a dream diary entry from these memory fragments: - User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:16:47.372Z",
+      "lastRecalledAt": "2026-04-17T04:16:47.372Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "user",
+        "fri",
+        "gmt",
+        "write"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:43:43": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:43:43",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 43,
+      "endLine": 43,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:16:47.372Z",
+      "lastRecalledAt": "2026-04-17T04:16:47.372Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:44:44": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:44:44",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 44,
+      "endLine": 44,
+      "source": "memory",
+      "snippet": "User: [Fri 2026-04-17 09:18 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: Theme: `reflections` kept surfacing across 161 memories.; confidence: 1.00; evidence: memory/2026-04-12.md:9-9, memory/2026-04-12.md:18-18, memory/2026-04-12.md:18-21; note",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:16:47.372Z",
+      "lastRecalledAt": "2026-04-17T04:16:47.372Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-12.md",
+        "9-9",
+        "18-18",
+        "18-21",
+        "user",
+        "fri",
+        "gmt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:45:45": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:45:45",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 45,
+      "endLine": 45,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:16:47.372Z",
+      "lastRecalledAt": "2026-04-17T04:16:47.372Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:46:46": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:46:46",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 46,
+      "endLine": 46,
+      "source": "memory",
+      "snippet": "User: [Fri 2026-04-17 09:19 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: Theme: `reflections` kept surfacing across 161 memories.; confidence: 1.00; evidence: memory/2026-04-12.md:9-9, memory/2026-04-12.md:18-18, memory/2026-04-12.md:18-21; note",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:16:47.372Z",
+      "lastRecalledAt": "2026-04-17T04:16:47.372Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-12.md",
+        "9-9",
+        "18-18",
+        "18-21",
+        "user",
+        "fri",
+        "gmt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:47:47": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:47:47",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 47,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:16:47.372Z",
+      "lastRecalledAt": "2026-04-17T04:16:47.372Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:48:48": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:48:48",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 48,
+      "endLine": 48,
+      "source": "memory",
+      "snippet": "User: [Fri 2026-04-17 09:20 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong candidate truths surfaced. - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No stron",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:16:47.372Z",
+      "lastRecalledAt": "2026-04-17T04:16:47.372Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "fri",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:49:49": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:49:49",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 49,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:16:47.372Z",
+      "lastRecalledAt": "2026-04-17T04:16:47.372Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/2026-04-17.md:168:171": {
+      "key": "memory:memory/2026-04-17.md:168:171",
+      "path": "memory/2026-04-17.md",
+      "startLine": 168,
+      "endLine": 171,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 1825 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-17T04:16:47.372Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-17.md:172:175": {
+      "key": "memory:memory/2026-04-17.md:172:175",
+      "path": "memory/2026-04-17.md",
+      "startLine": 172,
+      "endLine": 175,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `you` kept surfacing across 943 memories.; confidence: 0.85; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-17T04:16:47.372Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "0.85",
+        "1-1",
+        "2-2",
+        "5-5",
+        "reflections",
+        "theme",
+        "you",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-17.md:176:179": {
+      "key": "memory:memory/2026-04-17.md:176:179",
+      "path": "memory/2026-04-17.md",
+      "startLine": 176,
+      "endLine": 179,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `left` kept surfacing across 906 memories.; confidence: 0.82; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:26-26; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-17T04:16:47.372Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "0.82",
+        "2-2",
+        "6-6",
+        "26-26",
+        "reflections",
+        "theme",
+        "left",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-17.md:180:183": {
+      "key": "memory:memory/2026-04-17.md:180:183",
+      "path": "memory/2026-04-17.md",
+      "startLine": 180,
+      "endLine": 183,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `the` kept surfacing across 906 memories.; confidence: 0.82; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:8-8; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-17T04:16:47.372Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "0.82",
+        "2-2",
+        "6-6",
+        "8-8",
+        "reflections",
+        "theme",
+        "the",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-17.md:184:187": {
+      "key": "memory:memory/2026-04-17.md:184:187",
+      "path": "memory/2026-04-17.md",
+      "startLine": 184,
+      "endLine": 187,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `continue` kept surfacing across 904 memories.; confidence: 0.81; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:26-26; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-17T04:16:47.372Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "0.81",
+        "2-2",
+        "6-6",
+        "26-26",
+        "reflections",
+        "theme",
+        "continue",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-17.md:188:191": {
+      "key": "memory:memory/2026-04-17.md:188:191",
+      "path": "memory/2026-04-17.md",
+      "startLine": 188,
+      "endLine": 191,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `off` kept surfacing across 898 memories.; confidence: 0.81; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:26-26; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-17T04:16:47.372Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "0.81",
+        "2-2",
+        "6-6",
+        "26-26",
+        "reflections",
+        "theme",
+        "off",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-17.md:192:195": {
+      "key": "memory:memory/2026-04-17.md:192:195",
+      "path": "memory/2026-04-17.md",
+      "startLine": 192,
+      "endLine": 195,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `previous` kept surfacing across 898 memories.; confidence: 0.81; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:26-26; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-17T04:16:47.372Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "0.81",
+        "2-2",
+        "6-6",
+        "26-26",
+        "reflections",
+        "theme",
+        "previous",
+        "kept"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:50:50": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:50:50",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 50,
+      "endLine": 50,
+      "source": "memory",
+      "snippet": "User: [Fri 2026-04-17 09:46 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: Theme: `user` kept surfacing across 1800 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.t",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:16:47.372Z",
+      "lastRecalledAt": "2026-04-17T04:16:47.372Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "user",
+        "fri",
+        "gmt",
+        "write",
+        "dream",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:51:51": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:51:51",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 51,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:16:47.372Z",
+      "lastRecalledAt": "2026-04-17T04:16:47.372Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/2026-04-17.md:196:199": {
+      "key": "memory:memory/2026-04-17.md:196:199",
+      "path": "memory/2026-04-17.md",
+      "startLine": 196,
+      "endLine": 199,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `where` kept surfacing across 898 memories.; confidence: 0.81; evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:6-6, memory/.dreams/session-corpus/2026-04-11.txt:26-26; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-17T04:46:47.386Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "0.81",
+        "2-2",
+        "6-6",
+        "26-26",
+        "reflections",
+        "theme",
+        "where",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-17.md:202:202": {
+      "key": "memory:memory/2026-04-17.md:202:202",
+      "path": "memory/2026-04-17.md",
+      "startLine": 202,
+      "endLine": 202,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-17T04:46:47.386Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:52:52": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:52:52",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 52,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "User: [Fri 2026-04-17 09:48 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: Theme: `reflections` kept surfacing across 161 memories.; confidence: 1.00; evidence: memory/2026-04-12.md:9-9, memory/2026-04-12.md:18-18, memory/2026-04-12.md:18-21; note",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:46:47.386Z",
+      "lastRecalledAt": "2026-04-17T04:46:47.386Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-12.md",
+        "9-9",
+        "18-18",
+        "18-21",
+        "user",
+        "fri",
+        "gmt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:53:53": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:53:53",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 53,
+      "endLine": 53,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:46:47.386Z",
+      "lastRecalledAt": "2026-04-17T04:46:47.386Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:54:54": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:54:54",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 54,
+      "endLine": 54,
+      "source": "memory",
+      "snippet": "User: [Fri 2026-04-17 09:49 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: Theme: `reflections` kept surfacing across 161 memories.; confidence: 1.00; evidence: memory/2026-04-12.md:9-9, memory/2026-04-12.md:18-18, memory/2026-04-12.md:18-21; note",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:46:47.386Z",
+      "lastRecalledAt": "2026-04-17T04:46:47.386Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-12.md",
+        "9-9",
+        "18-18",
+        "18-21",
+        "user",
+        "fri",
+        "gmt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:55:55": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:55:55",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 55,
+      "endLine": 55,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:46:47.386Z",
+      "lastRecalledAt": "2026-04-17T04:46:47.386Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:56:56": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:56:56",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 56,
+      "endLine": 56,
+      "source": "memory",
+      "snippet": "User: [Fri 2026-04-17 09:47 GMT+5:30] Write a dream diary entry from these memory fragments: - User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:46:47.386Z",
+      "lastRecalledAt": "2026-04-17T04:46:47.386Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "user",
+        "fri",
+        "gmt",
+        "write"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:57:57": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:57:57",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 57,
+      "endLine": 57,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:46:47.386Z",
+      "lastRecalledAt": "2026-04-17T04:46:47.386Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:58:58": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:58:58",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 58,
+      "endLine": 58,
+      "source": "memory",
+      "snippet": "User: [Fri 2026-04-17 09:50 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong candidate truths surfaced. - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No stron",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:46:47.386Z",
+      "lastRecalledAt": "2026-04-17T04:46:47.386Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "fri",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:59:59": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:59:59",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 59,
+      "endLine": 59,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:46:47.386Z",
+      "lastRecalledAt": "2026-04-17T04:46:47.386Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:60:60": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:60:60",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 60,
+      "endLine": 60,
+      "source": "memory",
+      "snippet": "User: [Fri 2026-04-17 09:49 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong candidate truths surfaced. - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No stron",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:46:47.386Z",
+      "lastRecalledAt": "2026-04-17T04:46:47.386Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "fri",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:61:61": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:61:61",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 61,
+      "endLine": 61,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:46:47.386Z",
+      "lastRecalledAt": "2026-04-17T04:46:47.386Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:62:62": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:62:62",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 62,
+      "endLine": 62,
+      "source": "memory",
+      "snippet": "User: [Fri 2026-04-17 10:16 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: Theme: `user` kept surfacing across 1813 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.t",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:46:47.386Z",
+      "lastRecalledAt": "2026-04-17T04:46:47.386Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "user",
+        "fri",
+        "gmt",
+        "write",
+        "dream",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:63:63": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:63:63",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 63,
+      "endLine": 63,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T04:46:47.386Z",
+      "lastRecalledAt": "2026-04-17T04:46:47.386Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:64:64": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:64:64",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 64,
+      "endLine": 64,
+      "source": "memory",
+      "snippet": "User: [Fri 2026-04-17 10:19 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong candidate truths surfaced. - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No stron",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T05:16:47.371Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "fri",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:65:65": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:65:65",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 65,
+      "endLine": 65,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T05:16:47.371Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:66:66": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:66:66",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 66,
+      "endLine": 66,
+      "source": "memory",
+      "snippet": "User: [Fri 2026-04-17 10:19 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: Theme: `reflections` kept surfacing across 161 memories.; confidence: 1.00; evidence: memory/2026-04-12.md:9-9, memory/2026-04-12.md:18-18, memory/2026-04-12.md:18-21; note",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T05:16:47.371Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-12.md",
+        "9-9",
+        "18-18",
+        "18-21",
+        "user",
+        "fri",
+        "gmt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:67:67": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:67:67",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 67,
+      "endLine": 67,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T05:16:47.371Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:68:68": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:68:68",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 68,
+      "endLine": 68,
+      "source": "memory",
+      "snippet": "User: [Fri 2026-04-17 10:17 GMT+5:30] Write a dream diary entry from these memory fragments: - User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T05:16:47.371Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "user",
+        "fri",
+        "gmt",
+        "write"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:69:69": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:69:69",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 69,
+      "endLine": 69,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T05:16:47.371Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:70:70": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:70:70",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 70,
+      "endLine": 70,
+      "source": "memory",
+      "snippet": "User: [Fri 2026-04-17 10:18 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: Theme: `reflections` kept surfacing across 161 memories.; confidence: 1.00; evidence: memory/2026-04-12.md:9-9, memory/2026-04-12.md:18-18, memory/2026-04-12.md:18-21; note",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T05:16:47.371Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-12.md",
+        "9-9",
+        "18-18",
+        "18-21",
+        "user",
+        "fri",
+        "gmt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:71:71": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:71:71",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 71,
+      "endLine": 71,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T05:16:47.371Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:72:72": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:72:72",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 72,
+      "endLine": 72,
+      "source": "memory",
+      "snippet": "User: [Fri 2026-04-17 10:20 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong candidate truths surfaced. - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No stron",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T05:16:47.371Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "fri",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:73:73": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:73:73",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 73,
+      "endLine": 73,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T05:16:47.371Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:74:74": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:74:74",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 74,
+      "endLine": 74,
+      "source": "memory",
+      "snippet": "User: [Fri 2026-04-17 10:46 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: Theme: `user` kept surfacing across 1825 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-09.txt:1-1, memory/.dreams/session-corpus/2026-04-09.t",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T05:16:47.371Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "user",
+        "fri",
+        "gmt",
+        "write",
+        "dream",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:75:75": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:75:75",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 75,
+      "endLine": 75,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-17T05:16:47.371Z",
+      "lastRecalledAt": "2026-04-17T05:16:47.371Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-27.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: [cron:f085e793-9753-47e8-828e-27010602517d Zoe afternoon blocker nudge (daily 3pm)] Afternoon check. Read PULSE.md, the chat history, and today's memory. If Mode is resting, Quiet Until is active, OR you have been active in chat in the last 6 hours, reply NO_REPLY. If Last",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T06:21:09.051Z",
+      "lastRecalledAt": "2026-04-27T06:21:09.051Z",
+      "queryHashes": [
+        "e29ad1ab29b1"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "pulse.md",
+        "no-reply",
+        "user",
+        "cron:f085e793",
+        "47e8",
+        "828e",
+        "27010602517d",
+        "zoe"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-27.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: [cron:a65863c8-bdac-4b46-9a5e-9b415058cfc7 Zoe weekly review (Sunday 8pm)] Weekly review. Read PULSE.md and the last 7 days of memory files. Run: node scripts/db.js tasks --json and node scripts/db.js activity --days 7 --json Scan knowledge/areas/ overviews for neglected do",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T06:21:09.051Z",
+      "lastRecalledAt": "2026-04-27T06:21:09.051Z",
+      "queryHashes": [
+        "e29ad1ab29b1"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "pulse.md",
+        "scripts/db.js",
+        "knowledge/areas",
+        "user",
+        "cron:a65863c8",
+        "bdac",
+        "4b46",
+        "9a5e"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-27.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T06:21:09.051Z",
+      "lastRecalledAt": "2026-04-27T06:21:09.051Z",
+      "queryHashes": [
+        "e29ad1ab29b1"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "gateway",
+        "boot.md",
+        "pulse.md",
+        "scripts/db.js",
+        "memory/active-tasks.md",
+        "user",
+        "you",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-27.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T06:21:09.051Z",
+      "lastRecalledAt": "2026-04-27T06:21:09.051Z",
+      "queryHashes": [
+        "e29ad1ab29b1"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-27.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-27 11:51 GMT+5:30] Write a dream diary entry from these memory fragments: - User: [cron:f085e793-9753-47e8-828e-27010602517d Zoe afternoon blocker nudge (daily 3pm)] Afternoon check. Read PULSE.md, the chat history, and today's memory. If Mode is resting, Quiet",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T06:21:09.051Z",
+      "lastRecalledAt": "2026-04-27T06:21:09.051Z",
+      "queryHashes": [
+        "e29ad1ab29b1"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "pulse.md",
+        "user",
+        "mon",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-27.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: [cron:a65863c8-bdac-4b46-9a5e-9b415058cfc7 Zoe weekly review (Sunday 8pm)] Weekly review. Read PULSE.md and the last 7 days of memory files. Run: node scripts/db.js tasks --json and node scripts/db.js activity --days 7 --json Scan knowledge/areas/ overviews for neglected do",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T06:21:09.051Z",
+      "lastRecalledAt": "2026-04-27T06:21:09.051Z",
+      "queryHashes": [
+        "e29ad1ab29b1"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "pulse.md",
+        "scripts/db.js",
+        "knowledge/areas",
+        "user",
+        "cron:a65863c8",
+        "bdac",
+        "4b46",
+        "9a5e"
+      ]
+    },
+    "memory:memory/2026-04-27.md:28:31": {
+      "key": "memory:memory/2026-04-27.md:28:31",
+      "path": "memory/2026-04-27.md",
+      "startLine": 28,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 6 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-27.txt:1-1, memory/.dreams/session-corpus/2026-04-27.txt:2-2, memory/.dreams/session-corpus/2026-04-27.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-27T06:51:07.804Z",
+      "lastRecalledAt": "2026-04-27T06:51:07.804Z",
+      "queryHashes": [
+        "6c24d11cf4d7"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-27.md:32:35": {
+      "key": "memory:memory/2026-04-27.md:32:35",
+      "path": "memory/2026-04-27.md",
+      "startLine": 32,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `pulse.md` kept surfacing across 5 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-27.txt:1-1, memory/.dreams/session-corpus/2026-04-27.txt:2-2, memory/.dreams/session-corpus/2026-04-27.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-27T06:51:07.804Z",
+      "lastRecalledAt": "2026-04-27T06:51:07.804Z",
+      "queryHashes": [
+        "6c24d11cf4d7"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "pulse.md",
+        "1.00",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-27.md:36:39": {
+      "key": "memory:memory/2026-04-27.md:36:39",
+      "path": "memory/2026-04-27.md",
+      "startLine": 36,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `scripts/db.js` kept surfacing across 3 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-27.txt:2-2, memory/.dreams/session-corpus/2026-04-27.txt:3-3, memory/.dreams/session-corpus/2026-04-27.txt:6-6; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-27T06:51:07.804Z",
+      "lastRecalledAt": "2026-04-27T06:51:07.804Z",
+      "queryHashes": [
+        "6c24d11cf4d7"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "scripts/db.js",
+        "1.00",
+        "2-2",
+        "3-3",
+        "6-6",
+        "reflections",
+        "theme",
+        "scripts"
+      ]
+    },
+    "memory:memory/2026-04-27.md:42:42": {
+      "key": "memory:memory/2026-04-27.md:42:42",
+      "path": "memory/2026-04-27.md",
+      "startLine": 42,
+      "endLine": 42,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-27T06:51:07.804Z",
+      "lastRecalledAt": "2026-04-27T06:51:07.804Z",
+      "queryHashes": [
+        "6c24d11cf4d7"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-27.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-27 11:51 GMT+5:30] Write a dream diary entry from these memory fragments: - User: [cron:f085e793-9753-47e8-828e-27010602517d Zoe afternoon blocker nudge (daily 3pm)] Afternoon check. Read PULSE.md, the chat history, and today's memory. If Mode is resting, Quiet",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T06:51:07.804Z",
+      "lastRecalledAt": "2026-04-27T06:51:07.804Z",
+      "queryHashes": [
+        "e29ad1ab29b1"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "pulse.md",
+        "user",
+        "mon",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-27.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T06:51:07.804Z",
+      "lastRecalledAt": "2026-04-27T06:51:07.804Z",
+      "queryHashes": [
+        "e29ad1ab29b1"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/2026-04-27.md:53:56": {
+      "key": "memory:memory/2026-04-27.md:53:56",
+      "path": "memory/2026-04-27.md",
+      "startLine": 53,
+      "endLine": 56,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 12 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-27.txt:1-1, memory/.dreams/session-corpus/2026-04-27.txt:2-2, memory/.dreams/session-corpus/2026-04-27.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-27T06:51:07.804Z",
+      "lastRecalledAt": "2026-04-27T07:16:47.919Z",
+      "queryHashes": [
+        "6c24d11cf4d7"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-27.md:57:60": {
+      "key": "memory:memory/2026-04-27.md:57:60",
+      "path": "memory/2026-04-27.md",
+      "startLine": 57,
+      "endLine": 60,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `pulse.md` kept surfacing across 8 memories.; confidence: 0.89; evidence: memory/.dreams/session-corpus/2026-04-27.txt:1-1, memory/.dreams/session-corpus/2026-04-27.txt:2-2, memory/.dreams/session-corpus/2026-04-27.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-27T06:51:07.804Z",
+      "lastRecalledAt": "2026-04-27T07:16:47.919Z",
+      "queryHashes": [
+        "6c24d11cf4d7"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "pulse.md",
+        "0.89",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-27.md:61:64": {
+      "key": "memory:memory/2026-04-27.md:61:64",
+      "path": "memory/2026-04-27.md",
+      "startLine": 61,
+      "endLine": 64,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `1.00` kept surfacing across 7 memories.; confidence: 0.78; evidence: memory/2026-04-27.md:28-31, memory/2026-04-27.md:32-35, memory/2026-04-27.md:36-39; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-27T06:51:07.804Z",
+      "lastRecalledAt": "2026-04-27T07:16:47.919Z",
+      "queryHashes": [
+        "6c24d11cf4d7"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "1.00",
+        "0.78",
+        "memory/2026-04-27.md",
+        "28-31",
+        "32-35",
+        "36-39",
+        "reflections",
+        "theme"
+      ]
+    },
+    "memory:memory/2026-04-27.md:67:67": {
+      "key": "memory:memory/2026-04-27.md:67:67",
+      "path": "memory/2026-04-27.md",
+      "startLine": 67,
+      "endLine": 67,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-27T06:51:07.804Z",
+      "lastRecalledAt": "2026-04-27T07:16:47.919Z",
+      "queryHashes": [
+        "6c24d11cf4d7"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-27.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-27 12:21 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: Theme: `user` kept surfacing across 6 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-27.txt:1-1, memory/.dreams/session-corpus/2026-04-27.txt:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T06:51:07.804Z",
+      "lastRecalledAt": "2026-04-27T06:51:07.804Z",
+      "queryHashes": [
+        "e29ad1ab29b1"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "user",
+        "mon",
+        "gmt",
+        "write",
+        "dream",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-27.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T06:51:07.804Z",
+      "lastRecalledAt": "2026-04-27T06:51:07.804Z",
+      "queryHashes": [
+        "e29ad1ab29b1"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-27.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-27 12:24 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong candidate truths surfaced. Recurring themes: - reflections - strong - patterns - surfaced - possible - las",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T07:16:47.919Z",
+      "lastRecalledAt": "2026-04-27T07:16:47.919Z",
+      "queryHashes": [
+        "e29ad1ab29b1"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "user",
+        "mon",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-27.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T07:16:47.919Z",
+      "lastRecalledAt": "2026-04-27T07:16:47.919Z",
+      "queryHashes": [
+        "e29ad1ab29b1"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-27.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-27 12:23 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong candidate truths surfaced. - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No stron",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T07:16:47.919Z",
+      "lastRecalledAt": "2026-04-27T07:16:47.919Z",
+      "queryHashes": [
+        "e29ad1ab29b1"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "user",
+        "mon",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-27.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T07:16:47.919Z",
+      "lastRecalledAt": "2026-04-27T07:16:47.919Z",
+      "queryHashes": [
+        "e29ad1ab29b1"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-27.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-27 12:22 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong candidate truths surfaced. Recurring themes: - reflections - strong - patterns - surfaced - possible - las",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T07:16:47.919Z",
+      "lastRecalledAt": "2026-04-27T07:16:47.919Z",
+      "queryHashes": [
+        "e29ad1ab29b1"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "user",
+        "mon",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-27.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T07:16:47.919Z",
+      "lastRecalledAt": "2026-04-27T07:16:47.919Z",
+      "queryHashes": [
+        "e29ad1ab29b1"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-27.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-27 12:21 GMT+5:30] Write a dream diary entry from these memory fragments: - User: [cron:f085e793-9753-47e8-828e-27010602517d Zoe afternoon blocker nudge (daily 3pm)] Afternoon check. Read PULSE.md, the chat history, and today's memory. If Mode is resting, Quiet",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T07:16:47.919Z",
+      "lastRecalledAt": "2026-04-27T07:16:47.919Z",
+      "queryHashes": [
+        "e29ad1ab29b1"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "pulse.md",
+        "user",
+        "mon",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-27.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T07:16:47.919Z",
+      "lastRecalledAt": "2026-04-27T07:16:47.919Z",
+      "queryHashes": [
+        "e29ad1ab29b1"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-27.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-27 12:25 GMT+5:30] Write a dream diary entry from these memory fragments: - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong candidate truths surfaced. - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No stron",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T07:16:47.919Z",
+      "lastRecalledAt": "2026-04-27T07:16:47.919Z",
+      "queryHashes": [
+        "e29ad1ab29b1"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "user",
+        "mon",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-27.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "User: Continue where you left off. The previous model attempt failed or timed out.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T07:16:47.919Z",
+      "lastRecalledAt": "2026-04-27T07:16:47.919Z",
+      "queryHashes": [
+        "e29ad1ab29b1"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "user",
+        "continue",
+        "where",
+        "you",
+        "left",
+        "off",
+        "the",
+        "previous"
+      ]
+    },
+    "memory:memory/2026-04-27.md:78:81": {
+      "key": "memory:memory/2026-04-27.md:78:81",
+      "path": "memory/2026-04-27.md",
+      "startLine": 78,
+      "endLine": 81,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 23 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-27.txt:1-1, memory/.dreams/session-corpus/2026-04-27.txt:2-2, memory/.dreams/session-corpus/2026-04-27.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-27T07:16:47.919Z",
+      "lastRecalledAt": "2026-04-27T08:47:10.337Z",
+      "queryHashes": [
+        "6c24d11cf4d7"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-27.md:82:85": {
+      "key": "memory:memory/2026-04-27.md:82:85",
+      "path": "memory/2026-04-27.md",
+      "startLine": 82,
+      "endLine": 85,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `pulse.md` kept surfacing across 8 memories.; confidence: 0.89; evidence: memory/.dreams/session-corpus/2026-04-27.txt:1-1, memory/.dreams/session-corpus/2026-04-27.txt:2-2, memory/.dreams/session-corpus/2026-04-27.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-27T07:16:47.919Z",
+      "lastRecalledAt": "2026-04-27T07:16:47.919Z",
+      "queryHashes": [
+        "6c24d11cf4d7"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "pulse.md",
+        "0.89",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-27.md:86:89": {
+      "key": "memory:memory/2026-04-27.md:86:89",
+      "path": "memory/2026-04-27.md",
+      "startLine": 86,
+      "endLine": 89,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `1.00` kept surfacing across 7 memories.; confidence: 0.78; evidence: memory/2026-04-27.md:28-31, memory/2026-04-27.md:32-35, memory/2026-04-27.md:36-39; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-27T07:16:47.919Z",
+      "lastRecalledAt": "2026-04-27T07:16:47.919Z",
+      "queryHashes": [
+        "6c24d11cf4d7"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "1.00",
+        "0.78",
+        "memory/2026-04-27.md",
+        "28-31",
+        "32-35",
+        "36-39",
+        "reflections",
+        "theme"
+      ]
+    },
+    "memory:memory/2026-04-27.md:92:92": {
+      "key": "memory:memory/2026-04-27.md:92:92",
+      "path": "memory/2026-04-27.md",
+      "startLine": 92,
+      "endLine": 92,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-27T07:16:47.919Z",
+      "lastRecalledAt": "2026-04-27T07:16:47.919Z",
+      "queryHashes": [
+        "6c24d11cf4d7"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-27.md:84:84": {
+      "key": "memory:memory/2026-04-27.md:84:84",
+      "path": "memory/2026-04-27.md",
+      "startLine": 84,
+      "endLine": 84,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-27T07:46:49.619Z",
+      "lastRecalledAt": "2026-04-27T08:47:10.337Z",
+      "queryHashes": [
+        "6c24d11cf4d7"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
       ]
     }
   }

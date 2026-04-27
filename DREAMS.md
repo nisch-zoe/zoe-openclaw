@@ -826,4 +826,60 @@ Reflections: Theme: `user` kept surfacing across 1785 memories.; confidence: 1.0
 
 User: You are running a boot check. Follow BOOT.md instructions exactly. BOOT.md: # BOOT.md - Gateway Startup 1. Read `PULSE.md` for current state. 2. Run `node scripts/db.js summary --json` to verify the DB is healthy. 3. Check `memory/active-tasks.md` for incomplete work. 4. If
 
+
+---
+
+*April 27, 2026 at 7:16 AM*
+
+Reflections: Theme: `user` kept surfacing across 12 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-27.txt:1-1, memory/.dreams/session-corpus/2026-04-27.txt:2-2, memory/.dreams/session-corpus/2026-04-27.txt:3-3; note: reflection
+
+
+---
+
+*April 27, 2026 at 7:16 AM*
+
+User: [cron:f085e793-9753-47e8-828e-27010602517d Zoe afternoon blocker nudge (daily 3pm)] Afternoon check. Read PULSE.md, the chat history, and today's memory. If Mode is resting, Quiet Until is active, OR you have been active in chat in the last 6 hours, reply NO_REPLY. If Last
+
+
+---
+
+*April 27, 2026 at 7:46 AM*
+
+Reflections: Theme: `user` kept surfacing across 23 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-27.txt:1-1, memory/.dreams/session-corpus/2026-04-27.txt:2-2, memory/.dreams/session-corpus/2026-04-27.txt:3-3; note: reflection
+
+
+---
+
+*April 27, 2026 at 7:46 AM*
+
+User: [cron:f085e793-9753-47e8-828e-27010602517d Zoe afternoon blocker nudge (daily 3pm)] Afternoon check. Read PULSE.md, the chat history, and today's memory. If Mode is resting, Quiet Until is active, OR you have been active in chat in the last 6 hours, reply NO_REPLY. If Last
+
+
+---
+
+*April 27, 2026 at 8:16 AM*
+
+Reflections: Theme: `user` kept surfacing across 23 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-27.txt:1-1, memory/.dreams/session-corpus/2026-04-27.txt:2-2, memory/.dreams/session-corpus/2026-04-27.txt:3-3; note: reflection
+
+
+---
+
+*April 27, 2026 at 8:16 AM*
+
+User: [cron:f085e793-9753-47e8-828e-27010602517d Zoe afternoon blocker nudge (daily 3pm)] Afternoon check. Read PULSE.md, the chat history, and today's memory. If Mode is resting, Quiet Until is active, OR you have been active in chat in the last 6 hours, reply NO_REPLY. If Last
+
+
+---
+
+*April 27, 2026 at 8:47 AM*
+
+Reflections: Theme: `user` kept surfacing across 23 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-27.txt:1-1, memory/.dreams/session-corpus/2026-04-27.txt:2-2, memory/.dreams/session-corpus/2026-04-27.txt:3-3; note: reflection
+
+
+---
+
+*April 27, 2026 at 8:47 AM*
+
+User: [cron:f085e793-9753-47e8-828e-27010602517d Zoe afternoon blocker nudge (daily 3pm)] Afternoon check. Read PULSE.md, the chat history, and today's memory. If Mode is resting, Quiet Until is active, OR you have been active in chat in the last 6 hours, reply NO_REPLY. If Last
+
 <!-- openclaw:dreaming:diary:end -->
